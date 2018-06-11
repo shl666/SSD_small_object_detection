@@ -1,0 +1,2448 @@
+INFO:tensorflow:global step 10: loss = 49.9690 (0.789 sec/step)
+INFO:tensorflow:global step 20: loss = 38.0605 (1.599 sec/step)
+INFO:tensorflow:global_step/sec: 0.444943
+INFO:tensorflow:Recording summary at step 28.
+INFO:tensorflow:global step 30: loss = 55.0134 (4.802 sec/step)
+INFO:tensorflow:global step 40: loss = 95.1212 (1.995 sec/step)
+INFO:tensorflow:global step 50: loss = 77.1277 (1.895 sec/step)
+INFO:tensorflow:Recording summary at step 55.
+INFO:tensorflow:global_step/sec: 0.516668
+INFO:tensorflow:global step 60: loss = 77.3317 (2.397 sec/step)
+INFO:tensorflow:global step 70: loss = 55.0294 (1.798 sec/step)
+INFO:tensorflow:global step 80: loss = 65.4623 (1.899 sec/step)
+INFO:tensorflow:Recording summary at step 86.
+INFO:tensorflow:global_step/sec: 0.516659
+INFO:tensorflow:global step 90: loss = 55.5121 (4.298 sec/step)
+INFO:tensorflow:global step 100: loss = 58.1119 (1.698 sec/step)
+INFO:tensorflow:global step 110: loss = 62.8495 (1.895 sec/step)
+INFO:tensorflow:Recording summary at step 113.
+INFO:tensorflow:global step 120: loss = 55.0531 (1.595 sec/step)
+INFO:tensorflow:global_step/sec: 0.533346
+INFO:tensorflow:global step 130: loss = 71.4916 (1.905 sec/step)
+INFO:tensorflow:global step 140: loss = 58.6481 (1.898 sec/step)
+INFO:tensorflow:Recording summary at step 144.
+INFO:tensorflow:global step 150: loss = 66.5020 (1.795 sec/step)
+INFO:tensorflow:global_step/sec: 0.516662
+INFO:tensorflow:global step 160: loss = 58.0945 (1.898 sec/step)
+INFO:tensorflow:global step 170: loss = 62.0377 (1.699 sec/step)
+INFO:tensorflow:Recording summary at step 178.
+INFO:tensorflow:global step 180: loss = 63.8315 (1.698 sec/step)
+INFO:tensorflow:global_step/sec: 0.499929
+INFO:tensorflow:global step 190: loss = 59.8318 (1.998 sec/step)
+INFO:tensorflow:global step 200: loss = 88.5365 (1.798 sec/step)
+INFO:tensorflow:Recording summary at step 206.
+INFO:tensorflow:global step 210: loss = 73.0281 (1.688 sec/step)
+INFO:tensorflow:global_step/sec: 0.500075
+INFO:tensorflow:global step 220: loss = 65.3025 (1.898 sec/step)
+INFO:tensorflow:global step 230: loss = 47.1958 (1.699 sec/step)
+INFO:tensorflow:Recording summary at step 235.
+INFO:tensorflow:global step 240: loss = 72.5371 (1.800 sec/step)
+INFO:tensorflow:global_step/sec: 0.500001
+INFO:tensorflow:global step 250: loss = 54.6749 (1.799 sec/step)
+INFO:tensorflow:global step 260: loss = 40.1139 (1.796 sec/step)
+INFO:tensorflow:global step 270: loss = 49.7550 (1.698 sec/step)
+INFO:tensorflow:Recording summary at step 270.
+INFO:tensorflow:global_step/sec: 0.51667
+INFO:tensorflow:global step 280: loss = 51.7477 (1.899 sec/step)
+INFO:tensorflow:global step 290: loss = 56.4801 (1.785 sec/step)
+INFO:tensorflow:global step 300: loss = 59.1113 (1.800 sec/step)
+INFO:tensorflow:Recording summary at step 303.
+INFO:tensorflow:Saving checkpoint to path ./log/WF_addbolck3/model.ckpt
+INFO:tensorflow:global step 310: loss = 64.9751 (1.801 sec/step)
+INFO:tensorflow:global step 320: loss = 73.6502 (1.799 sec/step)
+INFO:tensorflow:Recording summary at step 328.
+INFO:tensorflow:global step 330: loss = 64.9327 (1.699 sec/step)
+INFO:tensorflow:global step 340: loss = 43.1345 (1.996 sec/step)
+INFO:tensorflow:global step 350: loss = 64.1836 (1.796 sec/step)
+INFO:tensorflow:global step 360: loss = 63.4333 (1.698 sec/step)
+INFO:tensorflow:Recording summary at step 362.
+INFO:tensorflow:global step 370: loss = 63.0137 (2.001 sec/step)
+INFO:tensorflow:global step 380: loss = 58.3393 (1.806 sec/step)
+INFO:tensorflow:global step 390: loss = 57.2550 (1.899 sec/step)
+INFO:tensorflow:Recording summary at step 392.
+INFO:tensorflow:global step 400: loss = 46.3945 (1.998 sec/step)
+INFO:tensorflow:global step 410: loss = 55.6018 (1.899 sec/step)
+INFO:tensorflow:Recording summary at step 419.
+INFO:tensorflow:global step 420: loss = 45.1146 (1.699 sec/step)
+INFO:tensorflow:global step 430: loss = 51.4110 (2.096 sec/step)
+INFO:tensorflow:global step 440: loss = 47.9036 (1.994 sec/step)
+INFO:tensorflow:global step 450: loss = 71.0240 (1.898 sec/step)
+INFO:tensorflow:Recording summary at step 451.
+INFO:tensorflow:global step 460: loss = 49.3141 (2.597 sec/step)
+INFO:tensorflow:global step 470: loss = 48.5980 (2.097 sec/step)
+INFO:tensorflow:global step 480: loss = 55.3652 (1.796 sec/step)
+INFO:tensorflow:Recording summary at step 485.
+INFO:tensorflow:global step 490: loss = 39.7548 (2.198 sec/step)
+INFO:tensorflow:global step 500: loss = 55.6981 (1.997 sec/step)
+INFO:tensorflow:global step 510: loss = 42.4679 (1.799 sec/step)
+INFO:tensorflow:Recording summary at step 510.
+INFO:tensorflow:global step 520: loss = 46.4443 (4.399 sec/step)
+INFO:tensorflow:global step 530: loss = 40.3837 (1.898 sec/step)
+INFO:tensorflow:global step 540: loss = 46.8430 (1.798 sec/step)
+INFO:tensorflow:Recording summary at step 546.
+INFO:tensorflow:global step 550: loss = 53.5725 (2.398 sec/step)
+INFO:tensorflow:global step 560: loss = 57.2560 (1.698 sec/step)
+INFO:tensorflow:global step 570: loss = 58.3840 (1.600 sec/step)
+INFO:tensorflow:Recording summary at step 576.
+INFO:tensorflow:global step 580: loss = 53.1721 (1.694 sec/step)
+INFO:tensorflow:global step 590: loss = 44.3588 (1.902 sec/step)
+INFO:tensorflow:global step 600: loss = 49.0208 (1.896 sec/step)
+INFO:tensorflow:Recording summary at step 607.
+INFO:tensorflow:global step 610: loss = 44.6966 (1.498 sec/step)
+INFO:tensorflow:Saving checkpoint to path ./log/WF_addbolck3/model.ckpt
+INFO:tensorflow:global step 620: loss = 43.9547 (1.796 sec/step)
+INFO:tensorflow:global step 630: loss = 52.0117 (1.799 sec/step)
+INFO:tensorflow:Recording summary at step 634.
+INFO:tensorflow:global step 640: loss = 51.3517 (1.698 sec/step)
+INFO:tensorflow:global step 650: loss = 58.3322 (1.792 sec/step)
+INFO:tensorflow:global step 660: loss = 54.7885 (1.600 sec/step)
+INFO:tensorflow:Recording summary at step 669.
+INFO:tensorflow:global step 670: loss = 64.1776 (1.710 sec/step)
+INFO:tensorflow:global step 680: loss = 58.5906 (2.198 sec/step)
+INFO:tensorflow:global step 690: loss = 52.1183 (1.797 sec/step)
+INFO:tensorflow:Recording summary at step 698.
+INFO:tensorflow:global step 700: loss = 41.9644 (1.903 sec/step)
+INFO:tensorflow:global step 710: loss = 44.2250 (2.001 sec/step)
+INFO:tensorflow:global step 720: loss = 32.2739 (1.905 sec/step)
+INFO:tensorflow:Recording summary at step 726.
+INFO:tensorflow:global step 730: loss = 62.2488 (1.996 sec/step)
+INFO:tensorflow:global step 740: loss = 41.3218 (1.991 sec/step)
+INFO:tensorflow:global step 750: loss = 51.7813 (1.896 sec/step)
+INFO:tensorflow:global step 760: loss = 49.8220 (1.697 sec/step)
+INFO:tensorflow:Recording summary at step 763.
+INFO:tensorflow:global step 770: loss = 67.5541 (2.199 sec/step)
+INFO:tensorflow:global step 780: loss = 43.6591 (1.799 sec/step)
+INFO:tensorflow:Recording summary at step 789.
+INFO:tensorflow:global step 790: loss = 54.1394 (1.797 sec/step)
+INFO:tensorflow:global step 800: loss = 52.7296 (1.999 sec/step)
+INFO:tensorflow:global step 810: loss = 49.5557 (1.697 sec/step)
+INFO:tensorflow:global step 820: loss = 57.3663 (1.894 sec/step)
+INFO:tensorflow:Recording summary at step 820.
+INFO:tensorflow:global step 830: loss = 32.5546 (1.899 sec/step)
+INFO:tensorflow:global step 840: loss = 59.2827 (1.899 sec/step)
+INFO:tensorflow:global step 850: loss = 35.2400 (1.798 sec/step)
+INFO:tensorflow:Recording summary at step 851.
+INFO:tensorflow:global step 860: loss = 51.2627 (1.994 sec/step)
+INFO:tensorflow:global step 870: loss = 44.0712 (1.797 sec/step)
+INFO:tensorflow:global step 880: loss = 44.0884 (1.900 sec/step)
+INFO:tensorflow:Recording summary at step 882.
+INFO:tensorflow:global step 890: loss = 42.9701 (2.389 sec/step)
+INFO:tensorflow:global step 900: loss = 40.5081 (1.800 sec/step)
+INFO:tensorflow:Recording summary at step 909.
+INFO:tensorflow:global step 910: loss = 44.1457 (1.890 sec/step)
+INFO:tensorflow:Saving checkpoint to path ./log/WF_addbolck3/model.ckpt
+INFO:tensorflow:global step 920: loss = 58.3184 (2.273 sec/step)
+INFO:tensorflow:global step 930: loss = 50.8580 (1.682 sec/step)
+INFO:tensorflow:global step 940: loss = 65.8268 (1.903 sec/step)
+INFO:tensorflow:Recording summary at step 944.
+INFO:tensorflow:global step 950: loss = 59.2007 (1.999 sec/step)
+INFO:tensorflow:global step 960: loss = 50.1519 (1.998 sec/step)
+INFO:tensorflow:global step 970: loss = 65.3665 (1.799 sec/step)
+INFO:tensorflow:Recording summary at step 974.
+INFO:tensorflow:global step 980: loss = 44.6702 (4.303 sec/step)
+INFO:tensorflow:global step 990: loss = 57.2702 (1.996 sec/step)
+INFO:tensorflow:global step 1000: loss = 49.9762 (1.597 sec/step)
+INFO:tensorflow:Recording summary at step 1005.
+INFO:tensorflow:global step 1010: loss = 50.0279 (1.691 sec/step)
+INFO:tensorflow:global step 1020: loss = 72.3123 (1.897 sec/step)
+INFO:tensorflow:global step 1030: loss = 48.8917 (2.000 sec/step)
+INFO:tensorflow:Recording summary at step 1036.
+INFO:tensorflow:global step 1040: loss = 48.8306 (1.797 sec/step)
+INFO:tensorflow:global step 1050: loss = 61.6427 (2.012 sec/step)
+INFO:tensorflow:global step 1060: loss = 42.6716 (1.888 sec/step)
+INFO:tensorflow:Recording summary at step 1063.
+INFO:tensorflow:global step 1070: loss = 59.9303 (1.799 sec/step)
+INFO:tensorflow:global step 1080: loss = 57.8000 (1.900 sec/step)
+INFO:tensorflow:global step 1090: loss = 68.5454 (1.697 sec/step)
+INFO:tensorflow:Recording summary at step 1094.
+INFO:tensorflow:global step 1100: loss = 66.5241 (1.797 sec/step)
+INFO:tensorflow:global step 1110: loss = 68.5765 (2.096 sec/step)
+INFO:tensorflow:global step 1120: loss = 61.5721 (1.698 sec/step)
+INFO:tensorflow:Recording summary at step 1127.
+INFO:tensorflow:global step 1130: loss = 51.1187 (1.799 sec/step)
+INFO:tensorflow:global step 1140: loss = 36.1446 (1.900 sec/step)
+INFO:tensorflow:global step 1150: loss = 46.5637 (1.698 sec/step)
+INFO:tensorflow:Recording summary at step 1157.
+INFO:tensorflow:global step 1160: loss = 37.6185 (1.598 sec/step)
+INFO:tensorflow:global step 1170: loss = 55.4999 (1.898 sec/step)
+INFO:tensorflow:global step 1180: loss = 51.3163 (1.698 sec/step)
+INFO:tensorflow:Recording summary at step 1186.
+INFO:tensorflow:global step 1190: loss = 53.7309 (1.795 sec/step)
+INFO:tensorflow:global step 1200: loss = 71.2823 (1.999 sec/step)
+INFO:tensorflow:global step 1210: loss = 50.0631 (1.800 sec/step)
+INFO:tensorflow:Recording summary at step 1219.
+INFO:tensorflow:global step 1220: loss = 60.5775 (1.799 sec/step)
+INFO:tensorflow:Saving checkpoint to path ./log/WF_addbolck3/model.ckpt
+INFO:tensorflow:global step 1230: loss = 46.2675 (1.899 sec/step)
+INFO:tensorflow:global step 1240: loss = 56.0195 (1.798 sec/step)
+INFO:tensorflow:global step 1250: loss = 58.4044 (1.798 sec/step)
+INFO:tensorflow:Recording summary at step 1253.
+INFO:tensorflow:global step 1260: loss = 64.9950 (1.896 sec/step)
+INFO:tensorflow:global step 1270: loss = 56.5670 (1.498 sec/step)
+INFO:tensorflow:global step 1280: loss = 51.5643 (1.800 sec/step)
+INFO:tensorflow:Recording summary at step 1282.
+INFO:tensorflow:global step 1290: loss = 43.3061 (1.800 sec/step)
+INFO:tensorflow:global step 1300: loss = 56.2568 (1.898 sec/step)
+INFO:tensorflow:global step 1310: loss = 36.7892 (1.789 sec/step)
+INFO:tensorflow:Recording summary at step 1311.
+INFO:tensorflow:global step 1320: loss = 41.2928 (2.102 sec/step)
+INFO:tensorflow:global step 1330: loss = 38.4396 (1.998 sec/step)
+INFO:tensorflow:global step 1340: loss = 54.8645 (1.798 sec/step)
+INFO:tensorflow:Recording summary at step 1345.
+INFO:tensorflow:global step 1350: loss = 33.7686 (2.294 sec/step)
+INFO:tensorflow:global step 1360: loss = 47.3471 (1.896 sec/step)
+INFO:tensorflow:global step 1370: loss = 38.4254 (1.900 sec/step)
+INFO:tensorflow:Recording summary at step 1372.
+INFO:tensorflow:global step 1380: loss = 34.7315 (2.297 sec/step)
+INFO:tensorflow:global step 1390: loss = 38.2995 (1.920 sec/step)
+INFO:tensorflow:global step 1400: loss = 41.0536 (1.597 sec/step)
+INFO:tensorflow:Recording summary at step 1403.
+INFO:tensorflow:global step 1410: loss = 29.5861 (2.296 sec/step)
+INFO:tensorflow:global step 1420: loss = 38.4491 (1.897 sec/step)
+INFO:tensorflow:global step 1430: loss = 31.2472 (1.899 sec/step)
+INFO:tensorflow:Recording summary at step 1439.
+INFO:tensorflow:global step 1440: loss = 37.9188 (2.398 sec/step)
+INFO:tensorflow:global step 1450: loss = 39.5982 (1.799 sec/step)
+INFO:tensorflow:global step 1460: loss = 52.3452 (1.800 sec/step)
+INFO:tensorflow:Recording summary at step 1469.
+INFO:tensorflow:global step 1470: loss = 53.2185 (2.299 sec/step)
+INFO:tensorflow:global step 1480: loss = 48.0523 (1.897 sec/step)
+INFO:tensorflow:global step 1490: loss = 47.0112 (1.799 sec/step)
+INFO:tensorflow:global step 1500: loss = 36.8485 (1.901 sec/step)
+INFO:tensorflow:Recording summary at step 1502.
+INFO:tensorflow:global step 1510: loss = 38.2080 (1.899 sec/step)
+INFO:tensorflow:global step 1520: loss = 32.0846 (1.698 sec/step)
+INFO:tensorflow:Saving checkpoint to path ./log/WF_addbolck3/model.ckpt
+INFO:tensorflow:global step 1530: loss = 43.6400 (1.898 sec/step)
+INFO:tensorflow:Recording summary at step 1530.
+INFO:tensorflow:global step 1540: loss = 36.9364 (1.793 sec/step)
+INFO:tensorflow:global step 1550: loss = 42.3367 (1.899 sec/step)
+INFO:tensorflow:global step 1560: loss = 57.7321 (1.993 sec/step)
+INFO:tensorflow:Recording summary at step 1560.
+INFO:tensorflow:global step 1570: loss = 49.8185 (2.095 sec/step)
+INFO:tensorflow:global step 1580: loss = 47.4679 (2.000 sec/step)
+INFO:tensorflow:Recording summary at step 1588.
+INFO:tensorflow:global step 1590: loss = 45.8924 (5.000 sec/step)
+INFO:tensorflow:global step 1600: loss = 39.2109 (2.099 sec/step)
+INFO:tensorflow:global step 1610: loss = 43.5884 (1.999 sec/step)
+INFO:tensorflow:Recording summary at step 1613.
+INFO:tensorflow:global step 1620: loss = 38.9836 (1.997 sec/step)
+INFO:tensorflow:global step 1630: loss = 41.9117 (1.799 sec/step)
+INFO:tensorflow:global step 1640: loss = 51.3341 (1.698 sec/step)
+INFO:tensorflow:Recording summary at step 1640.
+INFO:tensorflow:global step 1650: loss = 43.8426 (2.099 sec/step)
+INFO:tensorflow:global step 1660: loss = 56.5584 (2.000 sec/step)
+INFO:tensorflow:global step 1670: loss = 51.7684 (1.703 sec/step)
+INFO:tensorflow:Recording summary at step 1672.
+INFO:tensorflow:global step 1680: loss = 39.5534 (2.197 sec/step)
+INFO:tensorflow:global step 1690: loss = 37.0320 (1.798 sec/step)
+INFO:tensorflow:global step 1700: loss = 43.1684 (1.799 sec/step)
+INFO:tensorflow:Recording summary at step 1707.
+INFO:tensorflow:global step 1710: loss = 53.2780 (2.597 sec/step)
+INFO:tensorflow:global step 1720: loss = 34.8458 (1.798 sec/step)
+INFO:tensorflow:global step 1730: loss = 47.7078 (1.897 sec/step)
+INFO:tensorflow:Recording summary at step 1732.
+INFO:tensorflow:global step 1740: loss = 46.4136 (2.299 sec/step)
+INFO:tensorflow:global step 1750: loss = 41.3212 (2.198 sec/step)
+INFO:tensorflow:global step 1760: loss = 45.9670 (2.003 sec/step)
+INFO:tensorflow:Recording summary at step 1767.
+INFO:tensorflow:global step 1770: loss = 55.9539 (2.396 sec/step)
+INFO:tensorflow:global step 1780: loss = 28.3118 (1.797 sec/step)
+INFO:tensorflow:global step 1790: loss = 43.5673 (1.898 sec/step)
+INFO:tensorflow:Recording summary at step 1795.
+INFO:tensorflow:global step 1800: loss = 49.1145 (2.097 sec/step)
+INFO:tensorflow:global step 1810: loss = 44.2539 (1.699 sec/step)
+INFO:tensorflow:global step 1820: loss = 45.3136 (1.898 sec/step)
+INFO:tensorflow:Saving checkpoint to path ./log/WF_addbolck3/model.ckpt
+INFO:tensorflow:Recording summary at step 1824.
+INFO:tensorflow:global step 1830: loss = 59.7642 (2.000 sec/step)
+INFO:tensorflow:global step 1840: loss = 44.9079 (1.895 sec/step)
+INFO:tensorflow:global step 1850: loss = 57.2738 (1.799 sec/step)
+INFO:tensorflow:Recording summary at step 1852.
+INFO:tensorflow:global step 1860: loss = 65.4484 (2.100 sec/step)
+INFO:tensorflow:global step 1870: loss = 61.3699 (1.899 sec/step)
+INFO:tensorflow:Recording summary at step 1879.
+INFO:tensorflow:global step 1880: loss = 54.9511 (1.992 sec/step)
+INFO:tensorflow:global step 1890: loss = 47.6510 (1.796 sec/step)
+INFO:tensorflow:global step 1900: loss = 41.0767 (1.701 sec/step)
+INFO:tensorflow:Recording summary at step 1909.
+INFO:tensorflow:global step 1910: loss = 49.1938 (1.798 sec/step)
+INFO:tensorflow:global step 1920: loss = 34.1660 (2.098 sec/step)
+INFO:tensorflow:global step 1930: loss = 47.8188 (1.798 sec/step)
+INFO:tensorflow:Recording summary at step 1938.
+INFO:tensorflow:global step 1940: loss = 46.0660 (2.099 sec/step)
+INFO:tensorflow:global step 1950: loss = 41.0243 (1.995 sec/step)
+INFO:tensorflow:global step 1960: loss = 60.3780 (1.899 sec/step)
+INFO:tensorflow:Recording summary at step 1967.
+INFO:tensorflow:global step 1970: loss = 49.9692 (2.400 sec/step)
+INFO:tensorflow:global step 1980: loss = 53.6973 (1.899 sec/step)
+INFO:tensorflow:global step 1990: loss = 74.9193 (1.795 sec/step)
+INFO:tensorflow:Recording summary at step 1998.
+INFO:tensorflow:global step 2000: loss = 68.9330 (4.699 sec/step)
+INFO:tensorflow:global step 2010: loss = 44.8543 (1.898 sec/step)
+INFO:tensorflow:global step 2020: loss = 60.2825 (1.999 sec/step)
+INFO:tensorflow:Recording summary at step 2026.
+INFO:tensorflow:global step 2030: loss = 45.3893 (2.199 sec/step)
+INFO:tensorflow:global step 2040: loss = 49.4020 (1.997 sec/step)
+INFO:tensorflow:global step 2050: loss = 45.7767 (1.696 sec/step)
+INFO:tensorflow:Recording summary at step 2055.
+INFO:tensorflow:global step 2060: loss = 46.2866 (2.299 sec/step)
+INFO:tensorflow:global step 2070: loss = 52.6663 (1.901 sec/step)
+INFO:tensorflow:global step 2080: loss = 45.8812 (1.697 sec/step)
+INFO:tensorflow:Recording summary at step 2082.
+INFO:tensorflow:global step 2090: loss = 51.2211 (2.298 sec/step)
+INFO:tensorflow:global step 2100: loss = 78.2041 (1.998 sec/step)
+INFO:tensorflow:global step 2110: loss = 34.0017 (1.709 sec/step)
+INFO:tensorflow:Saving checkpoint to path ./log/WF_addbolck3/model.ckpt
+INFO:tensorflow:global step 2120: loss = 47.0500 (1.799 sec/step)
+INFO:tensorflow:Recording summary at step 2120.
+INFO:tensorflow:global step 2130: loss = 67.2457 (1.999 sec/step)
+INFO:tensorflow:global step 2140: loss = 42.4776 (1.698 sec/step)
+INFO:tensorflow:global step 2150: loss = 52.8820 (1.699 sec/step)
+INFO:tensorflow:Recording summary at step 2151.
+INFO:tensorflow:global step 2160: loss = 53.2712 (1.797 sec/step)
+INFO:tensorflow:global step 2170: loss = 49.0160 (1.598 sec/step)
+INFO:tensorflow:global step 2180: loss = 45.3709 (1.999 sec/step)
+INFO:tensorflow:Recording summary at step 2183.
+INFO:tensorflow:global step 2190: loss = 53.9405 (1.799 sec/step)
+INFO:tensorflow:global step 2200: loss = 48.5314 (1.701 sec/step)
+INFO:tensorflow:global step 2210: loss = 44.3584 (1.798 sec/step)
+INFO:tensorflow:Recording summary at step 2213.
+INFO:tensorflow:global step 2220: loss = 55.6949 (1.799 sec/step)
+INFO:tensorflow:global step 2230: loss = 43.4368 (1.895 sec/step)
+INFO:tensorflow:Recording summary at step 2239.
+INFO:tensorflow:global step 2240: loss = 46.6318 (1.697 sec/step)
+INFO:tensorflow:global step 2250: loss = 57.3474 (1.999 sec/step)
+INFO:tensorflow:global step 2260: loss = 33.1162 (2.000 sec/step)
+INFO:tensorflow:global step 2270: loss = 41.6797 (1.797 sec/step)
+INFO:tensorflow:Recording summary at step 2270.
+INFO:tensorflow:global step 2280: loss = 30.6931 (1.994 sec/step)
+INFO:tensorflow:global step 2290: loss = 37.2325 (1.796 sec/step)
+INFO:tensorflow:global step 2300: loss = 32.2667 (1.799 sec/step)
+INFO:tensorflow:Recording summary at step 2303.
+INFO:tensorflow:global step 2310: loss = 45.1379 (1.900 sec/step)
+INFO:tensorflow:global step 2320: loss = 46.5541 (1.999 sec/step)
+INFO:tensorflow:Recording summary at step 2329.
+INFO:tensorflow:global step 2330: loss = 49.8485 (1.695 sec/step)
+INFO:tensorflow:global step 2340: loss = 38.7808 (2.202 sec/step)
+INFO:tensorflow:global step 2350: loss = 41.5295 (1.898 sec/step)
+INFO:tensorflow:global step 2360: loss = 60.4505 (1.698 sec/step)
+INFO:tensorflow:Recording summary at step 2368.
+INFO:tensorflow:global step 2370: loss = 55.2466 (1.600 sec/step)
+INFO:tensorflow:global step 2380: loss = 52.0848 (1.796 sec/step)
+INFO:tensorflow:global step 2390: loss = 41.9950 (1.801 sec/step)
+INFO:tensorflow:global step 2400: loss = 33.4272 (1.701 sec/step)
+INFO:tensorflow:Recording summary at step 2402.
+INFO:tensorflow:global step 2410: loss = 41.0039 (1.896 sec/step)
+INFO:tensorflow:global step 2420: loss = 36.1999 (1.698 sec/step)
+INFO:tensorflow:Recording summary at step 2428.
+INFO:tensorflow:global step 2430: loss = 42.3039 (1.398 sec/step)
+INFO:tensorflow:Saving checkpoint to path ./log/WF_addbolck3/model.ckpt
+INFO:tensorflow:global step 2440: loss = 48.8413 (1.896 sec/step)
+INFO:tensorflow:global step 2450: loss = 58.7387 (1.699 sec/step)
+INFO:tensorflow:global step 2460: loss = 52.0176 (1.711 sec/step)
+INFO:tensorflow:Recording summary at step 2463.
+INFO:tensorflow:global step 2470: loss = 53.7252 (2.203 sec/step)
+INFO:tensorflow:global step 2480: loss = 30.8512 (1.793 sec/step)
+INFO:tensorflow:global step 2490: loss = 41.0129 (1.897 sec/step)
+INFO:tensorflow:Recording summary at step 2490.
+INFO:tensorflow:global step 2500: loss = 37.1519 (2.096 sec/step)
+INFO:tensorflow:global step 2510: loss = 36.1649 (1.699 sec/step)
+INFO:tensorflow:global step 2520: loss = 44.9904 (1.702 sec/step)
+INFO:tensorflow:Recording summary at step 2526.
+INFO:tensorflow:global step 2530: loss = 45.7441 (2.299 sec/step)
+INFO:tensorflow:global step 2540: loss = 50.8274 (1.808 sec/step)
+INFO:tensorflow:global step 2550: loss = 43.1565 (1.698 sec/step)
+INFO:tensorflow:Recording summary at step 2553.
+INFO:tensorflow:global step 2560: loss = 46.4470 (1.598 sec/step)
+INFO:tensorflow:global step 2570: loss = 46.5493 (1.789 sec/step)
+INFO:tensorflow:global step 2580: loss = 49.8235 (1.900 sec/step)
+INFO:tensorflow:Recording summary at step 2586.
+INFO:tensorflow:global step 2590: loss = 46.8141 (1.698 sec/step)
+INFO:tensorflow:global step 2600: loss = 51.6581 (1.799 sec/step)
+INFO:tensorflow:global step 2610: loss = 35.9507 (1.697 sec/step)
+INFO:tensorflow:global step 2620: loss = 54.9057 (1.699 sec/step)
+INFO:tensorflow:Recording summary at step 2623.
+INFO:tensorflow:global step 2630: loss = 45.8283 (1.997 sec/step)
+INFO:tensorflow:global step 2640: loss = 46.5981 (1.695 sec/step)
+INFO:tensorflow:global step 2650: loss = 46.7734 (1.898 sec/step)
+INFO:tensorflow:Recording summary at step 2652.
+INFO:tensorflow:global step 2660: loss = 47.2284 (1.996 sec/step)
+INFO:tensorflow:global step 2670: loss = 37.8435 (1.898 sec/step)
+INFO:tensorflow:global step 2680: loss = 49.5808 (1.800 sec/step)
+INFO:tensorflow:Recording summary at step 2682.
+INFO:tensorflow:global step 2690: loss = 45.4543 (3.798 sec/step)
+INFO:tensorflow:global step 2700: loss = 52.6286 (1.898 sec/step)
+INFO:tensorflow:global step 2710: loss = 40.6354 (1.797 sec/step)
+INFO:tensorflow:global step 2720: loss = 50.7986 (1.689 sec/step)
+INFO:tensorflow:Recording summary at step 2720.
+INFO:tensorflow:global step 2730: loss = 46.1649 (1.999 sec/step)
+INFO:tensorflow:global step 2740: loss = 53.1139 (1.800 sec/step)
+INFO:tensorflow:Recording summary at step 2748.
+INFO:tensorflow:global step 2750: loss = 52.7892 (1.597 sec/step)
+INFO:tensorflow:Saving checkpoint to path ./log/WF_addbolck3/model.ckpt
+INFO:tensorflow:global step 2760: loss = 54.2009 (1.898 sec/step)
+INFO:tensorflow:global step 2770: loss = 46.2406 (1.997 sec/step)
+INFO:tensorflow:Recording summary at step 2775.
+INFO:tensorflow:global step 2780: loss = 53.6917 (1.498 sec/step)
+INFO:tensorflow:global step 2790: loss = 41.9707 (1.898 sec/step)
+INFO:tensorflow:global step 2800: loss = 50.3027 (1.599 sec/step)
+INFO:tensorflow:global step 2810: loss = 48.3652 (1.698 sec/step)
+INFO:tensorflow:Recording summary at step 2816.
+INFO:tensorflow:global step 2820: loss = 36.4982 (2.099 sec/step)
+INFO:tensorflow:global step 2830: loss = 35.3865 (1.900 sec/step)
+INFO:tensorflow:global step 2840: loss = 50.0048 (1.897 sec/step)
+INFO:tensorflow:Recording summary at step 2845.
+INFO:tensorflow:global step 2850: loss = 54.9394 (2.098 sec/step)
+INFO:tensorflow:global step 2860: loss = 67.2352 (1.898 sec/step)
+INFO:tensorflow:global step 2870: loss = 52.1418 (1.692 sec/step)
+INFO:tensorflow:Recording summary at step 2872.
+INFO:tensorflow:global step 2880: loss = 60.8103 (4.097 sec/step)
+INFO:tensorflow:global step 2890: loss = 54.9513 (1.697 sec/step)
+INFO:tensorflow:global step 2900: loss = 62.3390 (1.798 sec/step)
+INFO:tensorflow:Recording summary at step 2906.
+INFO:tensorflow:global step 2910: loss = 53.7878 (2.300 sec/step)
+INFO:tensorflow:global step 2920: loss = 33.4057 (1.798 sec/step)
+INFO:tensorflow:global step 2930: loss = 38.0489 (1.791 sec/step)
+INFO:tensorflow:Recording summary at step 2937.
+INFO:tensorflow:global step 2940: loss = 36.0484 (1.786 sec/step)
+INFO:tensorflow:global step 2950: loss = 46.2530 (1.902 sec/step)
+INFO:tensorflow:global step 2960: loss = 42.1494 (1.794 sec/step)
+INFO:tensorflow:Recording summary at step 2969.
+INFO:tensorflow:global step 2970: loss = 38.0052 (1.586 sec/step)
+INFO:tensorflow:global step 2980: loss = 51.3033 (1.998 sec/step)
+INFO:tensorflow:global step 2990: loss = 42.1966 (1.699 sec/step)
+INFO:tensorflow:global step 3000: loss = 39.3540 (1.697 sec/step)
+INFO:tensorflow:Recording summary at step 3002.
+INFO:tensorflow:global step 3010: loss = 67.6446 (1.697 sec/step)
+INFO:tensorflow:global step 3020: loss = 39.3065 (1.798 sec/step)
+INFO:tensorflow:global step 3030: loss = 53.7137 (1.698 sec/step)
+INFO:tensorflow:Recording summary at step 3036.
+INFO:tensorflow:global step 3040: loss = 34.6108 (2.101 sec/step)
+INFO:tensorflow:global step 3050: loss = 49.9980 (1.698 sec/step)
+INFO:tensorflow:global step 3060: loss = 47.7753 (1.898 sec/step)
+INFO:tensorflow:Recording summary at step 3067.
+INFO:tensorflow:Saving checkpoint to path ./log/WF_addbolck3/model.ckpt
+INFO:tensorflow:global step 3070: loss = 49.1724 (4.108 sec/step)
+INFO:tensorflow:global step 3080: loss = 56.6428 (1.698 sec/step)
+INFO:tensorflow:global step 3090: loss = 47.8280 (1.702 sec/step)
+INFO:tensorflow:Recording summary at step 3093.
+INFO:tensorflow:global step 3100: loss = 36.9768 (2.298 sec/step)
+INFO:tensorflow:global step 3110: loss = 47.7275 (1.900 sec/step)
+INFO:tensorflow:global step 3120: loss = 36.3111 (1.795 sec/step)
+INFO:tensorflow:Recording summary at step 3126.
+INFO:tensorflow:global step 3130: loss = 45.1891 (1.698 sec/step)
+INFO:tensorflow:global step 3140: loss = 45.5033 (1.798 sec/step)
+INFO:tensorflow:global step 3150: loss = 56.6489 (1.799 sec/step)
+INFO:tensorflow:Recording summary at step 3159.
+INFO:tensorflow:global step 3160: loss = 37.1201 (1.791 sec/step)
+INFO:tensorflow:global step 3170: loss = 35.8275 (1.798 sec/step)
+INFO:tensorflow:global step 3180: loss = 40.4160 (1.599 sec/step)
+INFO:tensorflow:global step 3190: loss = 24.8489 (1.697 sec/step)
+INFO:tensorflow:Recording summary at step 3192.
+INFO:tensorflow:global step 3200: loss = 25.6033 (1.998 sec/step)
+INFO:tensorflow:global step 3210: loss = 35.6940 (1.600 sec/step)
+INFO:tensorflow:global step 3220: loss = 46.3453 (1.704 sec/step)
+INFO:tensorflow:Recording summary at step 3222.
+INFO:tensorflow:global step 3230: loss = 26.8354 (1.900 sec/step)
+INFO:tensorflow:global step 3240: loss = 41.3808 (1.796 sec/step)
+INFO:tensorflow:global step 3250: loss = 51.1724 (1.702 sec/step)
+INFO:tensorflow:Recording summary at step 3255.
+INFO:tensorflow:global step 3260: loss = 27.8617 (2.197 sec/step)
+INFO:tensorflow:global step 3270: loss = 47.3147 (1.696 sec/step)
+INFO:tensorflow:global step 3280: loss = 44.7419 (1.605 sec/step)
+INFO:tensorflow:Recording summary at step 3288.
+INFO:tensorflow:global step 3290: loss = 35.8280 (4.198 sec/step)
+INFO:tensorflow:global step 3300: loss = 40.0557 (1.798 sec/step)
+INFO:tensorflow:global step 3310: loss = 40.4996 (1.799 sec/step)
+INFO:tensorflow:global step 3320: loss = 45.1302 (1.897 sec/step)
+INFO:tensorflow:Recording summary at step 3320.
+INFO:tensorflow:global step 3330: loss = 44.7801 (1.798 sec/step)
+INFO:tensorflow:global step 3340: loss = 42.7215 (1.680 sec/step)
+INFO:tensorflow:Recording summary at step 3349.
+INFO:tensorflow:global step 3350: loss = 50.9277 (1.899 sec/step)
+INFO:tensorflow:global step 3360: loss = 50.1170 (1.900 sec/step)
+INFO:tensorflow:global step 3370: loss = 46.3427 (1.904 sec/step)
+INFO:tensorflow:Recording summary at step 3375.
+INFO:tensorflow:Saving checkpoint to path ./log/WF_addbolck3/model.ckpt
+INFO:tensorflow:global step 3380: loss = 41.6427 (1.900 sec/step)
+INFO:tensorflow:global step 3390: loss = 28.9351 (1.899 sec/step)
+INFO:tensorflow:global step 3400: loss = 39.6848 (1.699 sec/step)
+INFO:tensorflow:Recording summary at step 3403.
+INFO:tensorflow:global step 3410: loss = 43.2606 (1.701 sec/step)
+INFO:tensorflow:global step 3420: loss = 36.1593 (2.000 sec/step)
+INFO:tensorflow:global step 3430: loss = 42.4397 (1.799 sec/step)
+INFO:tensorflow:global step 3440: loss = 39.1011 (1.796 sec/step)
+INFO:tensorflow:Recording summary at step 3440.
+INFO:tensorflow:global step 3450: loss = 41.9424 (1.796 sec/step)
+INFO:tensorflow:global step 3460: loss = 40.5233 (1.697 sec/step)
+INFO:tensorflow:global step 3470: loss = 39.5837 (1.698 sec/step)
+INFO:tensorflow:Recording summary at step 3474.
+INFO:tensorflow:global step 3480: loss = 42.1454 (2.000 sec/step)
+INFO:tensorflow:global step 3490: loss = 49.2669 (1.699 sec/step)
+INFO:tensorflow:global step 3500: loss = 49.2389 (1.899 sec/step)
+INFO:tensorflow:Recording summary at step 3505.
+INFO:tensorflow:global step 3510: loss = 30.4907 (2.098 sec/step)
+INFO:tensorflow:global step 3520: loss = 58.9421 (1.794 sec/step)
+INFO:tensorflow:global step 3530: loss = 43.6454 (1.697 sec/step)
+INFO:tensorflow:Recording summary at step 3535.
+INFO:tensorflow:global step 3540: loss = 37.6553 (2.095 sec/step)
+INFO:tensorflow:global step 3550: loss = 45.8585 (1.900 sec/step)
+INFO:tensorflow:global step 3560: loss = 29.9098 (1.797 sec/step)
+INFO:tensorflow:Recording summary at step 3561.
+INFO:tensorflow:global step 3570: loss = 38.4999 (2.399 sec/step)
+INFO:tensorflow:global step 3580: loss = 33.2275 (1.897 sec/step)
+INFO:tensorflow:global step 3590: loss = 42.9583 (1.891 sec/step)
+INFO:tensorflow:Recording summary at step 3596.
+INFO:tensorflow:global step 3600: loss = 28.2807 (4.494 sec/step)
+INFO:tensorflow:global step 3610: loss = 50.9800 (1.697 sec/step)
+INFO:tensorflow:global step 3620: loss = 40.3594 (1.898 sec/step)
+INFO:tensorflow:Recording summary at step 3626.
+INFO:tensorflow:global step 3630: loss = 47.7828 (1.698 sec/step)
+INFO:tensorflow:global step 3640: loss = 48.6587 (1.899 sec/step)
+INFO:tensorflow:global step 3650: loss = 58.1071 (1.698 sec/step)
+INFO:tensorflow:global step 3660: loss = 40.6880 (1.699 sec/step)
+INFO:tensorflow:Recording summary at step 3661.
+INFO:tensorflow:global step 3670: loss = 44.2838 (1.899 sec/step)
+INFO:tensorflow:global step 3680: loss = 53.8469 (1.695 sec/step)
+INFO:tensorflow:global step 3690: loss = 41.0589 (1.598 sec/step)
+INFO:tensorflow:Recording summary at step 3692.
+INFO:tensorflow:Saving checkpoint to path ./log/WF_addbolck3/model.ckpt
+INFO:tensorflow:global step 3700: loss = 46.5650 (2.300 sec/step)
+INFO:tensorflow:global step 3710: loss = 31.4421 (1.786 sec/step)
+INFO:tensorflow:Recording summary at step 3718.
+INFO:tensorflow:global step 3720: loss = 51.7950 (1.689 sec/step)
+INFO:tensorflow:global step 3730: loss = 39.7395 (2.100 sec/step)
+INFO:tensorflow:global step 3740: loss = 33.8320 (1.897 sec/step)
+INFO:tensorflow:global step 3750: loss = 43.8095 (1.698 sec/step)
+INFO:tensorflow:Recording summary at step 3754.
+INFO:tensorflow:global step 3760: loss = 48.6593 (1.900 sec/step)
+INFO:tensorflow:global step 3770: loss = 57.0282 (1.696 sec/step)
+INFO:tensorflow:global step 3780: loss = 57.5999 (1.698 sec/step)
+INFO:tensorflow:Recording summary at step 3787.
+INFO:tensorflow:global step 3790: loss = 36.7702 (2.398 sec/step)
+INFO:tensorflow:global step 3800: loss = 41.5001 (1.800 sec/step)
+INFO:tensorflow:global step 3810: loss = 42.8035 (1.798 sec/step)
+INFO:tensorflow:Recording summary at step 3815.
+INFO:tensorflow:global step 3820: loss = 43.5448 (4.097 sec/step)
+INFO:tensorflow:global step 3830: loss = 38.6402 (1.887 sec/step)
+INFO:tensorflow:global step 3840: loss = 35.4169 (1.499 sec/step)
+INFO:tensorflow:global step 3850: loss = 38.3946 (1.700 sec/step)
+INFO:tensorflow:Recording summary at step 3852.
+INFO:tensorflow:global step 3860: loss = 39.3829 (1.813 sec/step)
+INFO:tensorflow:global step 3870: loss = 31.6137 (1.897 sec/step)
+INFO:tensorflow:global step 3880: loss = 43.4901 (1.796 sec/step)
+INFO:tensorflow:Recording summary at step 3885.
+INFO:tensorflow:global step 3890: loss = 50.9694 (2.096 sec/step)
+INFO:tensorflow:global step 3900: loss = 53.8267 (1.899 sec/step)
+INFO:tensorflow:global step 3910: loss = 52.2800 (1.898 sec/step)
+INFO:tensorflow:Recording summary at step 3912.
+INFO:tensorflow:global step 3920: loss = 45.0380 (1.798 sec/step)
+INFO:tensorflow:global step 3930: loss = 35.9387 (1.698 sec/step)
+INFO:tensorflow:global step 3940: loss = 47.9664 (1.799 sec/step)
+INFO:tensorflow:Recording summary at step 3942.
+INFO:tensorflow:global step 3950: loss = 40.9025 (1.899 sec/step)
+INFO:tensorflow:global step 3960: loss = 38.4214 (1.797 sec/step)
+INFO:tensorflow:global step 3970: loss = 44.4927 (1.696 sec/step)
+INFO:tensorflow:Recording summary at step 3973.
+INFO:tensorflow:global step 3980: loss = 29.8695 (2.096 sec/step)
+INFO:tensorflow:global step 3990: loss = 43.4030 (1.696 sec/step)
+INFO:tensorflow:global step 4000: loss = 37.1994 (1.697 sec/step)
+INFO:tensorflow:Recording summary at step 4002.
+INFO:tensorflow:Saving checkpoint to path ./log/WF_addbolck3/model.ckpt
+INFO:tensorflow:global step 4010: loss = 45.2340 (2.403 sec/step)
+INFO:tensorflow:global step 4020: loss = 38.2939 (1.701 sec/step)
+INFO:tensorflow:global step 4030: loss = 38.2783 (1.599 sec/step)
+INFO:tensorflow:Recording summary at step 4034.
+INFO:tensorflow:global step 4040: loss = 28.9869 (3.898 sec/step)
+INFO:tensorflow:global step 4050: loss = 33.1369 (1.899 sec/step)
+INFO:tensorflow:global step 4060: loss = 24.8630 (1.695 sec/step)
+INFO:tensorflow:Recording summary at step 4069.
+INFO:tensorflow:global step 4070: loss = 24.9490 (1.498 sec/step)
+INFO:tensorflow:global step 4080: loss = 28.7724 (1.796 sec/step)
+INFO:tensorflow:global step 4090: loss = 31.4944 (1.599 sec/step)
+INFO:tensorflow:global step 4100: loss = 30.7130 (1.793 sec/step)
+INFO:tensorflow:Recording summary at step 4102.
+INFO:tensorflow:global step 4110: loss = 37.4679 (1.796 sec/step)
+INFO:tensorflow:global step 4120: loss = 28.1257 (1.799 sec/step)
+INFO:tensorflow:global step 4130: loss = 39.7004 (1.590 sec/step)
+INFO:tensorflow:Recording summary at step 4136.
+INFO:tensorflow:global step 4140: loss = 38.7601 (1.898 sec/step)
+INFO:tensorflow:global step 4150: loss = 37.8906 (1.902 sec/step)
+INFO:tensorflow:global step 4160: loss = 35.3925 (1.499 sec/step)
+INFO:tensorflow:global step 4170: loss = 32.6086 (1.501 sec/step)
+INFO:tensorflow:Recording summary at step 4172.
+INFO:tensorflow:global step 4180: loss = 34.5031 (1.605 sec/step)
+INFO:tensorflow:global step 4190: loss = 31.3858 (1.799 sec/step)
+INFO:tensorflow:Recording summary at step 4197.
+INFO:tensorflow:global step 4200: loss = 36.6944 (1.693 sec/step)
+INFO:tensorflow:global step 4210: loss = 24.1943 (1.798 sec/step)
+INFO:tensorflow:global step 4220: loss = 32.8692 (1.599 sec/step)
+INFO:tensorflow:global step 4230: loss = 40.6278 (1.599 sec/step)
+INFO:tensorflow:Recording summary at step 4233.
+INFO:tensorflow:global step 4240: loss = 38.1525 (2.201 sec/step)
+INFO:tensorflow:global step 4250: loss = 35.6343 (1.796 sec/step)
+INFO:tensorflow:global step 4260: loss = 37.6157 (1.593 sec/step)
+INFO:tensorflow:Recording summary at step 4264.
+INFO:tensorflow:global step 4270: loss = 34.5994 (4.297 sec/step)
+INFO:tensorflow:global step 4280: loss = 25.8106 (1.899 sec/step)
+INFO:tensorflow:global step 4290: loss = 41.2063 (1.799 sec/step)
+INFO:tensorflow:Recording summary at step 4298.
+INFO:tensorflow:global step 4300: loss = 40.4570 (2.401 sec/step)
+INFO:tensorflow:global step 4310: loss = 40.2356 (1.906 sec/step)
+INFO:tensorflow:global step 4320: loss = 47.1425 (1.599 sec/step)
+INFO:tensorflow:Recording summary at step 4327.
+INFO:tensorflow:global step 4330: loss = 41.5272 (1.499 sec/step)
+INFO:tensorflow:Saving checkpoint to path ./log/WF_addbolck3/model.ckpt
+INFO:tensorflow:global step 4340: loss = 38.9590 (1.693 sec/step)
+INFO:tensorflow:global step 4350: loss = 35.2961 (1.596 sec/step)
+INFO:tensorflow:global step 4360: loss = 40.6600 (1.501 sec/step)
+INFO:tensorflow:Recording summary at step 4361.
+INFO:tensorflow:global step 4370: loss = 41.2811 (1.798 sec/step)
+INFO:tensorflow:global step 4380: loss = 36.2474 (1.600 sec/step)
+INFO:tensorflow:global step 4390: loss = 39.3123 (1.800 sec/step)
+INFO:tensorflow:Recording summary at step 4396.
+INFO:tensorflow:global step 4400: loss = 42.3645 (2.199 sec/step)
+INFO:tensorflow:global step 4410: loss = 29.3398 (1.809 sec/step)
+INFO:tensorflow:global step 4420: loss = 42.0717 (1.595 sec/step)
+INFO:tensorflow:Recording summary at step 4422.
+INFO:tensorflow:global step 4430: loss = 38.4722 (2.097 sec/step)
+INFO:tensorflow:global step 4440: loss = 45.5344 (2.100 sec/step)
+INFO:tensorflow:global step 4450: loss = 27.1307 (1.695 sec/step)
+INFO:tensorflow:Recording summary at step 4458.
+INFO:tensorflow:global step 4460: loss = 29.0690 (1.700 sec/step)
+INFO:tensorflow:global step 4470: loss = 39.4345 (1.896 sec/step)
+INFO:tensorflow:global step 4480: loss = 56.8445 (1.700 sec/step)
+INFO:tensorflow:global step 4490: loss = 34.8264 (1.600 sec/step)
+INFO:tensorflow:Recording summary at step 4494.
+INFO:tensorflow:global step 4500: loss = 32.3238 (2.098 sec/step)
+INFO:tensorflow:global step 4510: loss = 40.0442 (1.694 sec/step)
+INFO:tensorflow:global step 4520: loss = 51.9795 (1.798 sec/step)
+INFO:tensorflow:Recording summary at step 4522.
+INFO:tensorflow:global step 4530: loss = 47.8041 (1.796 sec/step)
+INFO:tensorflow:global step 4540: loss = 41.2217 (1.598 sec/step)
+INFO:tensorflow:global step 4550: loss = 33.7853 (1.798 sec/step)
+INFO:tensorflow:Recording summary at step 4557.
+INFO:tensorflow:global step 4560: loss = 32.4600 (2.197 sec/step)
+INFO:tensorflow:global step 4570: loss = 38.0617 (1.794 sec/step)
+INFO:tensorflow:global step 4580: loss = 34.5487 (1.597 sec/step)
+INFO:tensorflow:Recording summary at step 4588.
+INFO:tensorflow:global step 4590: loss = 36.2940 (1.502 sec/step)
+INFO:tensorflow:global step 4600: loss = 39.5198 (1.799 sec/step)
+INFO:tensorflow:global step 4610: loss = 31.1704 (1.701 sec/step)
+INFO:tensorflow:global step 4620: loss = 31.3119 (1.700 sec/step)
+INFO:tensorflow:Recording summary at step 4621.
+INFO:tensorflow:global step 4630: loss = 36.3204 (1.999 sec/step)
+INFO:tensorflow:global step 4640: loss = 34.7719 (1.897 sec/step)
+INFO:tensorflow:Recording summary at step 4648.
+INFO:tensorflow:global step 4650: loss = 40.5246 (1.707 sec/step)
+INFO:tensorflow:Saving checkpoint to path ./log/WF_addbolck3/model.ckpt
+INFO:tensorflow:global step 4660: loss = 36.7654 (1.699 sec/step)
+INFO:tensorflow:global step 4670: loss = 51.9488 (1.703 sec/step)
+INFO:tensorflow:Recording summary at step 4678.
+INFO:tensorflow:global step 4680: loss = 42.1877 (1.694 sec/step)
+INFO:tensorflow:global step 4690: loss = 33.6279 (1.898 sec/step)
+INFO:tensorflow:global step 4700: loss = 34.3605 (1.699 sec/step)
+INFO:tensorflow:global step 4710: loss = 28.1053 (1.597 sec/step)
+INFO:tensorflow:Recording summary at step 4710.
+INFO:tensorflow:global step 4720: loss = 35.6545 (1.898 sec/step)
+INFO:tensorflow:global step 4730: loss = 30.4089 (1.898 sec/step)
+INFO:tensorflow:global step 4740: loss = 29.7624 (1.597 sec/step)
+INFO:tensorflow:Recording summary at step 4746.
+INFO:tensorflow:global step 4750: loss = 29.4774 (4.794 sec/step)
+INFO:tensorflow:global step 4760: loss = 32.2626 (1.595 sec/step)
+INFO:tensorflow:global step 4770: loss = 37.1717 (1.591 sec/step)
+INFO:tensorflow:global step 4780: loss = 38.4500 (1.599 sec/step)
+INFO:tensorflow:Recording summary at step 4780.
+INFO:tensorflow:global step 4790: loss = 36.4929 (1.797 sec/step)
+INFO:tensorflow:global step 4800: loss = 31.8154 (1.601 sec/step)
+INFO:tensorflow:global step 4810: loss = 34.0789 (1.599 sec/step)
+INFO:tensorflow:Recording summary at step 4810.
+INFO:tensorflow:global step 4820: loss = 45.0541 (1.899 sec/step)
+INFO:tensorflow:global step 4830: loss = 34.3942 (1.598 sec/step)
+INFO:tensorflow:global step 4840: loss = 52.3590 (1.705 sec/step)
+INFO:tensorflow:Recording summary at step 4844.
+INFO:tensorflow:global step 4850: loss = 40.0806 (2.092 sec/step)
+INFO:tensorflow:global step 4860: loss = 47.1683 (1.798 sec/step)
+INFO:tensorflow:global step 4870: loss = 42.3223 (1.600 sec/step)
+INFO:tensorflow:global step 4880: loss = 40.2555 (1.698 sec/step)
+INFO:tensorflow:Recording summary at step 4880.
+INFO:tensorflow:global step 4890: loss = 26.6822 (1.708 sec/step)
+INFO:tensorflow:global step 4900: loss = 29.3087 (1.700 sec/step)
+INFO:tensorflow:global step 4910: loss = 42.2683 (1.799 sec/step)
+INFO:tensorflow:Recording summary at step 4912.
+INFO:tensorflow:global step 4920: loss = 41.0466 (1.796 sec/step)
+INFO:tensorflow:global step 4930: loss = 27.8820 (1.597 sec/step)
+INFO:tensorflow:global step 4940: loss = 47.4782 (1.797 sec/step)
+INFO:tensorflow:Recording summary at step 4942.
+INFO:tensorflow:global step 4950: loss = 31.0380 (1.998 sec/step)
+INFO:tensorflow:global step 4960: loss = 30.2556 (1.892 sec/step)
+INFO:tensorflow:Recording summary at step 4969.
+INFO:tensorflow:global step 4970: loss = 30.6424 (1.598 sec/step)
+INFO:tensorflow:Saving checkpoint to path ./log/WF_addbolck3/model.ckpt
+INFO:tensorflow:global step 4980: loss = 23.6075 (1.799 sec/step)
+INFO:tensorflow:global step 4990: loss = 21.2452 (1.597 sec/step)
+INFO:tensorflow:global step 5000: loss = 29.9768 (1.501 sec/step)
+INFO:tensorflow:Recording summary at step 5005.
+INFO:tensorflow:global step 5010: loss = 31.0809 (2.097 sec/step)
+INFO:tensorflow:global step 5020: loss = 24.7179 (1.711 sec/step)
+INFO:tensorflow:global step 5030: loss = 32.3724 (1.600 sec/step)
+INFO:tensorflow:Recording summary at step 5035.
+INFO:tensorflow:global step 5040: loss = 31.9429 (4.299 sec/step)
+INFO:tensorflow:global step 5050: loss = 30.6299 (1.796 sec/step)
+INFO:tensorflow:global step 5060: loss = 31.9281 (1.798 sec/step)
+INFO:tensorflow:Recording summary at step 5069.
+INFO:tensorflow:global step 5070: loss = 30.3386 (1.798 sec/step)
+INFO:tensorflow:global step 5080: loss = 24.7121 (1.800 sec/step)
+INFO:tensorflow:global step 5090: loss = 30.8688 (1.601 sec/step)
+INFO:tensorflow:global step 5100: loss = 25.8362 (1.598 sec/step)
+INFO:tensorflow:Recording summary at step 5102.
+INFO:tensorflow:global step 5110: loss = 27.4731 (1.901 sec/step)
+INFO:tensorflow:global step 5120: loss = 33.2537 (1.598 sec/step)
+INFO:tensorflow:global step 5130: loss = 22.9685 (1.598 sec/step)
+INFO:tensorflow:Recording summary at step 5133.
+INFO:tensorflow:global step 5140: loss = 33.3894 (1.897 sec/step)
+INFO:tensorflow:global step 5150: loss = 32.8786 (1.698 sec/step)
+INFO:tensorflow:global step 5160: loss = 25.5991 (1.996 sec/step)
+INFO:tensorflow:Recording summary at step 5164.
+INFO:tensorflow:global step 5170: loss = 27.6857 (2.296 sec/step)
+INFO:tensorflow:global step 5180: loss = 26.3180 (1.800 sec/step)
+INFO:tensorflow:global step 5190: loss = 33.7257 (1.799 sec/step)
+INFO:tensorflow:Recording summary at step 5191.
+INFO:tensorflow:global step 5200: loss = 34.7930 (2.103 sec/step)
+INFO:tensorflow:global step 5210: loss = 32.8058 (1.894 sec/step)
+INFO:tensorflow:global step 5220: loss = 40.5243 (1.703 sec/step)
+INFO:tensorflow:Recording summary at step 5229.
+INFO:tensorflow:global step 5230: loss = 30.0833 (2.299 sec/step)
+INFO:tensorflow:global step 5240: loss = 42.2212 (1.693 sec/step)
+INFO:tensorflow:global step 5250: loss = 27.1806 (1.789 sec/step)
+INFO:tensorflow:Recording summary at step 5258.
+INFO:tensorflow:global step 5260: loss = 31.0103 (1.699 sec/step)
+INFO:tensorflow:global step 5270: loss = 39.1557 (1.797 sec/step)
+INFO:tensorflow:global step 5280: loss = 29.0687 (1.695 sec/step)
+INFO:tensorflow:global step 5290: loss = 38.9464 (1.989 sec/step)
+INFO:tensorflow:Saving checkpoint to path ./log/WF_addbolck3/model.ckpt
+INFO:tensorflow:Recording summary at step 5294.
+INFO:tensorflow:global step 5300: loss = 44.1550 (2.000 sec/step)
+INFO:tensorflow:global step 5310: loss = 29.6138 (1.799 sec/step)
+INFO:tensorflow:global step 5320: loss = 32.0613 (1.699 sec/step)
+INFO:tensorflow:Recording summary at step 5327.
+INFO:tensorflow:global step 5330: loss = 29.5319 (2.301 sec/step)
+INFO:tensorflow:global step 5340: loss = 29.9707 (1.895 sec/step)
+INFO:tensorflow:global step 5350: loss = 27.0436 (1.795 sec/step)
+INFO:tensorflow:Recording summary at step 5358.
+INFO:tensorflow:global step 5360: loss = 26.0700 (4.597 sec/step)
+INFO:tensorflow:global step 5370: loss = 28.6267 (1.901 sec/step)
+INFO:tensorflow:global step 5380: loss = 34.9680 (1.698 sec/step)
+INFO:tensorflow:global step 5390: loss = 34.9281 (1.799 sec/step)
+INFO:tensorflow:Recording summary at step 5390.
+INFO:tensorflow:global step 5400: loss = 40.3748 (1.800 sec/step)
+INFO:tensorflow:global step 5410: loss = 40.7946 (1.895 sec/step)
+INFO:tensorflow:Recording summary at step 5418.
+INFO:tensorflow:global step 5420: loss = 32.8235 (4.402 sec/step)
+INFO:tensorflow:global step 5430: loss = 26.8723 (1.797 sec/step)
+INFO:tensorflow:global step 5440: loss = 37.6544 (1.696 sec/step)
+INFO:tensorflow:global step 5450: loss = 30.6816 (1.799 sec/step)
+INFO:tensorflow:Recording summary at step 5451.
+INFO:tensorflow:global step 5460: loss = 35.8916 (1.898 sec/step)
+INFO:tensorflow:global step 5470: loss = 32.7426 (1.898 sec/step)
+INFO:tensorflow:Recording summary at step 5476.
+INFO:tensorflow:global step 5480: loss = 38.2767 (1.599 sec/step)
+INFO:tensorflow:global step 5490: loss = 28.2073 (1.798 sec/step)
+INFO:tensorflow:global step 5500: loss = 26.0352 (1.900 sec/step)
+INFO:tensorflow:global step 5510: loss = 25.5550 (1.897 sec/step)
+INFO:tensorflow:Recording summary at step 5510.
+INFO:tensorflow:global step 5520: loss = 37.6679 (1.797 sec/step)
+INFO:tensorflow:global step 5530: loss = 34.9346 (1.698 sec/step)
+INFO:tensorflow:Recording summary at step 5538.
+INFO:tensorflow:global step 5540: loss = 32.3774 (1.699 sec/step)
+INFO:tensorflow:global step 5550: loss = 53.4094 (1.799 sec/step)
+INFO:tensorflow:global step 5560: loss = 38.0029 (1.803 sec/step)
+INFO:tensorflow:global step 5570: loss = 30.4321 (1.883 sec/step)
+INFO:tensorflow:Recording summary at step 5572.
+INFO:tensorflow:global step 5580: loss = 39.1462 (1.999 sec/step)
+INFO:tensorflow:global step 5590: loss = 29.9889 (1.798 sec/step)
+INFO:tensorflow:global step 5600: loss = 33.3246 (1.799 sec/step)
+INFO:tensorflow:Recording summary at step 5601.
+INFO:tensorflow:Saving checkpoint to path ./log/WF_addbolck3/model.ckpt
+INFO:tensorflow:global step 5610: loss = 27.9067 (1.800 sec/step)
+INFO:tensorflow:global step 5620: loss = 32.8670 (1.602 sec/step)
+INFO:tensorflow:global step 5630: loss = 28.3658 (1.797 sec/step)
+INFO:tensorflow:Recording summary at step 5637.
+INFO:tensorflow:global step 5640: loss = 33.4189 (2.397 sec/step)
+INFO:tensorflow:global step 5650: loss = 28.6142 (1.698 sec/step)
+INFO:tensorflow:global step 5660: loss = 30.6906 (1.798 sec/step)
+INFO:tensorflow:global step 5670: loss = 34.6572 (1.699 sec/step)
+INFO:tensorflow:Recording summary at step 5672.
+INFO:tensorflow:global step 5680: loss = 48.7101 (1.796 sec/step)
+INFO:tensorflow:global step 5690: loss = 25.9484 (1.689 sec/step)
+INFO:tensorflow:global step 5700: loss = 37.9411 (1.797 sec/step)
+INFO:tensorflow:Recording summary at step 5706.
+INFO:tensorflow:global step 5710: loss = 31.4135 (2.098 sec/step)
+INFO:tensorflow:global step 5720: loss = 36.5836 (1.803 sec/step)
+INFO:tensorflow:global step 5730: loss = 34.5158 (1.598 sec/step)
+INFO:tensorflow:Recording summary at step 5738.
+INFO:tensorflow:global step 5740: loss = 35.8538 (4.698 sec/step)
+INFO:tensorflow:global step 5750: loss = 35.9826 (1.900 sec/step)
+INFO:tensorflow:global step 5760: loss = 26.4491 (1.798 sec/step)
+INFO:tensorflow:Recording summary at step 5765.
+INFO:tensorflow:global step 5770: loss = 33.2394 (2.099 sec/step)
+INFO:tensorflow:global step 5780: loss = 22.3281 (1.897 sec/step)
+INFO:tensorflow:global step 5790: loss = 25.1619 (1.699 sec/step)
+INFO:tensorflow:Recording summary at step 5794.
+INFO:tensorflow:global step 5800: loss = 33.7689 (2.092 sec/step)
+INFO:tensorflow:global step 5810: loss = 27.8294 (1.799 sec/step)
+INFO:tensorflow:global step 5820: loss = 31.3942 (1.798 sec/step)
+INFO:tensorflow:Recording summary at step 5821.
+INFO:tensorflow:global step 5830: loss = 25.7074 (1.997 sec/step)
+INFO:tensorflow:global step 5840: loss = 28.3991 (1.702 sec/step)
+INFO:tensorflow:global step 5850: loss = 27.9715 (1.798 sec/step)
+INFO:tensorflow:Recording summary at step 5853.
+INFO:tensorflow:global step 5860: loss = 19.3469 (1.997 sec/step)
+INFO:tensorflow:global step 5870: loss = 24.5577 (1.800 sec/step)
+INFO:tensorflow:global step 5880: loss = 23.7958 (1.699 sec/step)
+INFO:tensorflow:global step 5890: loss = 37.4585 (1.698 sec/step)
+INFO:tensorflow:Recording summary at step 5891.
+INFO:tensorflow:global step 5900: loss = 25.5022 (1.899 sec/step)
+INFO:tensorflow:global step 5910: loss = 36.5706 (1.801 sec/step)
+INFO:tensorflow:Saving checkpoint to path ./log/WF_addbolck3/model.ckpt
+INFO:tensorflow:global step 5920: loss = 33.1937 (1.797 sec/step)
+INFO:tensorflow:Recording summary at step 5920.
+INFO:tensorflow:global step 5930: loss = 26.9359 (1.900 sec/step)
+INFO:tensorflow:global step 5940: loss = 29.4949 (1.799 sec/step)
+INFO:tensorflow:global step 5950: loss = 24.3313 (1.887 sec/step)
+INFO:tensorflow:Recording summary at step 5950.
+INFO:tensorflow:global step 5960: loss = 24.3110 (1.798 sec/step)
+INFO:tensorflow:global step 5970: loss = 24.1717 (1.799 sec/step)
+INFO:tensorflow:global step 5980: loss = 28.9239 (1.798 sec/step)
+INFO:tensorflow:Recording summary at step 5982.
+INFO:tensorflow:global step 5990: loss = 27.4887 (1.798 sec/step)
+INFO:tensorflow:global step 6000: loss = 20.5444 (1.502 sec/step)
+INFO:tensorflow:global step 6010: loss = 36.4287 (1.698 sec/step)
+INFO:tensorflow:Recording summary at step 6016.
+INFO:tensorflow:global step 6020: loss = 35.8950 (2.098 sec/step)
+INFO:tensorflow:global step 6030: loss = 32.1008 (1.703 sec/step)
+INFO:tensorflow:global step 6040: loss = 36.4525 (1.799 sec/step)
+INFO:tensorflow:Recording summary at step 6047.
+INFO:tensorflow:global step 6050: loss = 33.7069 (2.597 sec/step)
+INFO:tensorflow:global step 6060: loss = 24.4705 (1.698 sec/step)
+INFO:tensorflow:global step 6070: loss = 23.7630 (1.798 sec/step)
+INFO:tensorflow:Recording summary at step 6078.
+INFO:tensorflow:global step 6080: loss = 21.4567 (4.399 sec/step)
+INFO:tensorflow:global step 6090: loss = 22.4982 (2.000 sec/step)
+INFO:tensorflow:global step 6100: loss = 28.6808 (1.703 sec/step)
+INFO:tensorflow:Recording summary at step 6107.
+INFO:tensorflow:global step 6110: loss = 29.9405 (2.396 sec/step)
+INFO:tensorflow:global step 6120: loss = 25.2465 (1.899 sec/step)
+INFO:tensorflow:global step 6130: loss = 23.6556 (1.799 sec/step)
+INFO:tensorflow:global step 6140: loss = 24.4253 (1.793 sec/step)
+INFO:tensorflow:Recording summary at step 6141.
+INFO:tensorflow:global step 6150: loss = 27.9042 (1.798 sec/step)
+INFO:tensorflow:global step 6160: loss = 35.7391 (1.798 sec/step)
+INFO:tensorflow:global step 6170: loss = 26.5400 (1.799 sec/step)
+INFO:tensorflow:Recording summary at step 6170.
+INFO:tensorflow:global step 6180: loss = 36.1482 (1.898 sec/step)
+INFO:tensorflow:global step 6190: loss = 28.6710 (1.798 sec/step)
+INFO:tensorflow:global step 6200: loss = 41.1496 (1.700 sec/step)
+INFO:tensorflow:Recording summary at step 6205.
+INFO:tensorflow:global step 6210: loss = 35.1061 (1.900 sec/step)
+INFO:tensorflow:global step 6220: loss = 26.8913 (1.998 sec/step)
+INFO:tensorflow:Saving checkpoint to path ./log/WF_addbolck3/model.ckpt
+INFO:tensorflow:global step 6230: loss = 28.8296 (1.802 sec/step)
+INFO:tensorflow:Recording summary at step 6232.
+INFO:tensorflow:global step 6240: loss = 27.4390 (1.698 sec/step)
+INFO:tensorflow:global step 6250: loss = 22.0160 (1.699 sec/step)
+INFO:tensorflow:Recording summary at step 6255.
+INFO:tensorflow:global step 6260: loss = 18.4761 (2.200 sec/step)
+INFO:tensorflow:global step 6270: loss = 33.3010 (1.598 sec/step)
+INFO:tensorflow:global step 6280: loss = 27.4505 (1.700 sec/step)
+INFO:tensorflow:global step 6290: loss = 30.6024 (1.801 sec/step)
+INFO:tensorflow:Recording summary at step 6296.
+INFO:tensorflow:global step 6300: loss = 32.7098 (2.199 sec/step)
+INFO:tensorflow:global step 6310: loss = 44.5379 (1.997 sec/step)
+INFO:tensorflow:global step 6320: loss = 31.0153 (1.887 sec/step)
+INFO:tensorflow:Recording summary at step 6327.
+INFO:tensorflow:global step 6330: loss = 32.3995 (2.000 sec/step)
+INFO:tensorflow:global step 6340: loss = 32.6022 (1.800 sec/step)
+INFO:tensorflow:global step 6350: loss = 21.8234 (1.797 sec/step)
+INFO:tensorflow:Recording summary at step 6359.
+INFO:tensorflow:global step 6360: loss = 22.0006 (2.296 sec/step)
+INFO:tensorflow:global step 6370: loss = 30.0248 (1.799 sec/step)
+INFO:tensorflow:global step 6380: loss = 31.4229 (1.898 sec/step)
+INFO:tensorflow:global step 6390: loss = 31.3564 (1.901 sec/step)
+INFO:tensorflow:Recording summary at step 6396.
+INFO:tensorflow:global step 6400: loss = 31.3737 (2.097 sec/step)
+INFO:tensorflow:global step 6410: loss = 21.8759 (1.899 sec/step)
+INFO:tensorflow:global step 6420: loss = 26.9238 (1.799 sec/step)
+INFO:tensorflow:Recording summary at step 6427.
+INFO:tensorflow:global step 6430: loss = 31.1082 (2.198 sec/step)
+INFO:tensorflow:global step 6440: loss = 34.8031 (1.998 sec/step)
+INFO:tensorflow:global step 6450: loss = 27.4454 (1.798 sec/step)
+INFO:tensorflow:global step 6460: loss = 38.8558 (1.797 sec/step)
+INFO:tensorflow:Recording summary at step 6462.
+INFO:tensorflow:global step 6470: loss = 33.6626 (1.990 sec/step)
+INFO:tensorflow:global step 6480: loss = 29.5706 (1.799 sec/step)
+INFO:tensorflow:global step 6490: loss = 24.5364 (1.997 sec/step)
+INFO:tensorflow:Recording summary at step 6490.
+INFO:tensorflow:global step 6500: loss = 30.8168 (1.999 sec/step)
+INFO:tensorflow:global step 6510: loss = 30.2438 (1.796 sec/step)
+INFO:tensorflow:global step 6520: loss = 27.7033 (1.698 sec/step)
+INFO:tensorflow:Recording summary at step 6520.
+INFO:tensorflow:global step 6530: loss = 30.5327 (1.998 sec/step)
+INFO:tensorflow:Saving checkpoint to path ./log/WF_addbolck3/model.ckpt
+INFO:tensorflow:global step 6540: loss = 36.2636 (1.700 sec/step)
+INFO:tensorflow:global step 6550: loss = 28.3180 (1.698 sec/step)
+INFO:tensorflow:Recording summary at step 6551.
+INFO:tensorflow:global step 6560: loss = 32.1547 (2.007 sec/step)
+INFO:tensorflow:global step 6570: loss = 29.8679 (1.699 sec/step)
+INFO:tensorflow:global step 6580: loss = 37.1058 (1.698 sec/step)
+INFO:tensorflow:Recording summary at step 6586.
+INFO:tensorflow:global step 6590: loss = 35.9565 (2.296 sec/step)
+INFO:tensorflow:global step 6600: loss = 26.9874 (1.899 sec/step)
+INFO:tensorflow:global step 6610: loss = 33.0006 (1.700 sec/step)
+INFO:tensorflow:global step 6620: loss = 31.5641 (1.797 sec/step)
+INFO:tensorflow:Recording summary at step 6621.
+INFO:tensorflow:global step 6630: loss = 47.8626 (2.098 sec/step)
+INFO:tensorflow:global step 6640: loss = 40.4803 (1.897 sec/step)
+INFO:tensorflow:Recording summary at step 6649.
+INFO:tensorflow:global step 6650: loss = 32.5389 (2.098 sec/step)
+INFO:tensorflow:global step 6660: loss = 27.7496 (1.994 sec/step)
+INFO:tensorflow:global step 6670: loss = 26.0738 (1.903 sec/step)
+INFO:tensorflow:global step 6680: loss = 30.5027 (1.801 sec/step)
+INFO:tensorflow:Recording summary at step 6681.
+INFO:tensorflow:global step 6690: loss = 24.3630 (1.998 sec/step)
+INFO:tensorflow:global step 6700: loss = 27.7220 (1.990 sec/step)
+INFO:tensorflow:Recording summary at step 6709.
+INFO:tensorflow:global step 6710: loss = 42.0777 (2.100 sec/step)
+INFO:tensorflow:global step 6720: loss = 31.9403 (1.998 sec/step)
+INFO:tensorflow:global step 6730: loss = 23.8161 (1.898 sec/step)
+INFO:tensorflow:global step 6740: loss = 23.6367 (1.898 sec/step)
+INFO:tensorflow:Recording summary at step 6741.
+INFO:tensorflow:global step 6750: loss = 22.5809 (1.988 sec/step)
+INFO:tensorflow:global step 6760: loss = 31.8463 (2.200 sec/step)
+INFO:tensorflow:global step 6770: loss = 24.3520 (1.999 sec/step)
+INFO:tensorflow:Recording summary at step 6773.
+INFO:tensorflow:global step 6780: loss = 25.8038 (2.000 sec/step)
+INFO:tensorflow:global step 6790: loss = 30.6695 (2.099 sec/step)
+INFO:tensorflow:global step 6800: loss = 32.9972 (1.997 sec/step)
+INFO:tensorflow:Recording summary at step 6804.
+INFO:tensorflow:global step 6810: loss = 25.4586 (2.097 sec/step)
+INFO:tensorflow:global step 6820: loss = 28.3687 (1.798 sec/step)
+INFO:tensorflow:Saving checkpoint to path ./log/WF_addbolck3/model.ckpt
+INFO:tensorflow:global step 6830: loss = 31.4965 (1.899 sec/step)
+INFO:tensorflow:Recording summary at step 6832.
+INFO:tensorflow:global step 6840: loss = 25.2893 (1.997 sec/step)
+INFO:tensorflow:global step 6850: loss = 19.4700 (1.898 sec/step)
+INFO:tensorflow:global step 6860: loss = 25.6744 (1.898 sec/step)
+INFO:tensorflow:Recording summary at step 6867.
+INFO:tensorflow:global step 6870: loss = 24.4199 (2.695 sec/step)
+INFO:tensorflow:global step 6880: loss = 26.9969 (1.798 sec/step)
+INFO:tensorflow:global step 6890: loss = 20.8606 (1.785 sec/step)
+INFO:tensorflow:Recording summary at step 6899.
+INFO:tensorflow:global step 6900: loss = 22.1341 (2.606 sec/step)
+INFO:tensorflow:global step 6910: loss = 25.6655 (1.893 sec/step)
+INFO:tensorflow:global step 6920: loss = 28.6796 (1.901 sec/step)
+INFO:tensorflow:global step 6930: loss = 29.0058 (1.900 sec/step)
+INFO:tensorflow:Recording summary at step 6933.
+INFO:tensorflow:global step 6940: loss = 23.9021 (2.101 sec/step)
+INFO:tensorflow:global step 6950: loss = 29.0883 (1.898 sec/step)
+INFO:tensorflow:global step 6960: loss = 20.4337 (1.896 sec/step)
+INFO:tensorflow:Recording summary at step 6960.
+INFO:tensorflow:global step 6970: loss = 17.8916 (2.098 sec/step)
+INFO:tensorflow:global step 6980: loss = 23.8240 (1.700 sec/step)
+INFO:tensorflow:Recording summary at step 6987.
+INFO:tensorflow:global step 6990: loss = 20.7026 (2.597 sec/step)
+INFO:tensorflow:global step 7000: loss = 34.4337 (2.000 sec/step)
+INFO:tensorflow:global step 7010: loss = 32.1333 (1.899 sec/step)
+INFO:tensorflow:global step 7020: loss = 26.2615 (1.701 sec/step)
+INFO:tensorflow:Recording summary at step 7022.
+INFO:tensorflow:global step 7030: loss = 29.6593 (1.896 sec/step)
+INFO:tensorflow:global step 7040: loss = 24.3621 (1.798 sec/step)
+INFO:tensorflow:global step 7050: loss = 22.5209 (1.897 sec/step)
+INFO:tensorflow:Recording summary at step 7059.
+INFO:tensorflow:global step 7060: loss = 36.9979 (2.498 sec/step)
+INFO:tensorflow:global step 7070: loss = 39.5483 (1.998 sec/step)
+INFO:tensorflow:global step 7080: loss = 28.5449 (1.898 sec/step)
+INFO:tensorflow:global step 7090: loss = 33.1741 (1.791 sec/step)
+INFO:tensorflow:Recording summary at step 7090.
+INFO:tensorflow:global step 7100: loss = 26.1873 (1.897 sec/step)
+INFO:tensorflow:global step 7110: loss = 33.5775 (1.797 sec/step)
+INFO:tensorflow:Saving checkpoint to path ./log/WF_addbolck3/model.ckpt
+INFO:tensorflow:global step 7120: loss = 22.6666 (27.686 sec/step)
+INFO:tensorflow:global step 7130: loss = 23.2328 (0.798 sec/step)
+INFO:tensorflow:global step 7140: loss = 35.8865 (2.099 sec/step)
+INFO:tensorflow:Recording summary at step 7143.
+INFO:tensorflow:global_step/sec: 0.416835
+INFO:tensorflow:global step 7150: loss = 35.6673 (2.199 sec/step)
+INFO:tensorflow:global step 7160: loss = 42.9242 (2.096 sec/step)
+INFO:tensorflow:global step 7170: loss = 30.3930 (1.991 sec/step)
+INFO:tensorflow:global_step/sec: 0.450008
+INFO:tensorflow:Recording summary at step 7175.
+INFO:tensorflow:global step 7180: loss = 27.1438 (2.299 sec/step)
+INFO:tensorflow:global step 7190: loss = 27.0006 (2.197 sec/step)
+INFO:tensorflow:global_step/sec: 0.449999
+INFO:tensorflow:global step 7200: loss = 29.8628 (1.900 sec/step)
+INFO:tensorflow:Recording summary at step 7209.
+INFO:tensorflow:global step 7210: loss = 29.4338 (2.398 sec/step)
+INFO:tensorflow:global step 7220: loss = 26.6122 (1.998 sec/step)
+INFO:tensorflow:global_step/sec: 0.466655
+INFO:tensorflow:global step 7230: loss = 19.5750 (1.798 sec/step)
+INFO:tensorflow:Recording summary at step 7239.
+INFO:tensorflow:global step 7240: loss = 24.2288 (2.499 sec/step)
+INFO:tensorflow:global step 7250: loss = 25.5932 (2.197 sec/step)
+INFO:tensorflow:global_step/sec: 0.466682
+INFO:tensorflow:global step 7260: loss = 23.1656 (2.100 sec/step)
+INFO:tensorflow:Recording summary at step 7269.
+INFO:tensorflow:global step 7270: loss = 22.2933 (2.497 sec/step)
+INFO:tensorflow:global_step/sec: 0.433335
+INFO:tensorflow:global step 7280: loss = 25.6224 (2.196 sec/step)
+INFO:tensorflow:global step 7290: loss = 25.4542 (1.996 sec/step)
+INFO:tensorflow:global step 7300: loss = 36.7419 (1.999 sec/step)
+INFO:tensorflow:Recording summary at step 7300.
+INFO:tensorflow:global_step/sec: 0.449988
+INFO:tensorflow:global step 7310: loss = 26.3419 (2.099 sec/step)
+INFO:tensorflow:global step 7320: loss = 29.4558 (1.999 sec/step)
+INFO:tensorflow:global step 7330: loss = 33.3133 (2.099 sec/step)
+INFO:tensorflow:Recording summary at step 7331.
+INFO:tensorflow:global_step/sec: 0.450009
+INFO:tensorflow:global step 7340: loss = 36.7733 (2.200 sec/step)
+INFO:tensorflow:global step 7350: loss = 39.1892 (2.097 sec/step)
+INFO:tensorflow:global step 7360: loss = 25.5842 (1.904 sec/step)
+INFO:tensorflow:global_step/sec: 0.483337
+INFO:tensorflow:Recording summary at step 7363.
+INFO:tensorflow:global step 7370: loss = 30.4463 (2.299 sec/step)
+INFO:tensorflow:global step 7380: loss = 27.7515 (1.999 sec/step)
+INFO:tensorflow:Saving checkpoint to path ./log/WF_addbolck3/model.ckpt
+INFO:tensorflow:global step 7390: loss = 31.0566 (1.999 sec/step)
+INFO:tensorflow:Recording summary at step 7394.
+INFO:tensorflow:global step 7400: loss = 29.6478 (2.098 sec/step)
+INFO:tensorflow:global step 7410: loss = 30.0103 (1.996 sec/step)
+INFO:tensorflow:global step 7420: loss = 31.7662 (1.897 sec/step)
+INFO:tensorflow:Recording summary at step 7429.
+INFO:tensorflow:global step 7430: loss = 38.4569 (1.687 sec/step)
+INFO:tensorflow:global step 7440: loss = 40.0923 (1.600 sec/step)
+INFO:tensorflow:global step 7450: loss = 28.1225 (1.601 sec/step)
+INFO:tensorflow:Recording summary at step 7455.
+INFO:tensorflow:global step 7460: loss = 30.0140 (2.297 sec/step)
+INFO:tensorflow:global step 7470: loss = 26.2351 (1.996 sec/step)
+INFO:tensorflow:global step 7480: loss = 44.5856 (2.001 sec/step)
+INFO:tensorflow:Recording summary at step 7487.
+INFO:tensorflow:global step 7490: loss = 27.8914 (2.398 sec/step)
+INFO:tensorflow:global step 7500: loss = 28.4572 (1.893 sec/step)
+INFO:tensorflow:global step 7510: loss = 28.1007 (1.998 sec/step)
+INFO:tensorflow:Recording summary at step 7518.
+INFO:tensorflow:global step 7520: loss = 29.7835 (4.598 sec/step)
+INFO:tensorflow:global step 7530: loss = 28.3407 (1.996 sec/step)
+INFO:tensorflow:global step 7540: loss = 26.6096 (1.894 sec/step)
+INFO:tensorflow:Recording summary at step 7546.
+INFO:tensorflow:global step 7550: loss = 27.2033 (2.197 sec/step)
+INFO:tensorflow:global step 7560: loss = 21.7177 (1.998 sec/step)
+INFO:tensorflow:global step 7570: loss = 31.7373 (1.898 sec/step)
+INFO:tensorflow:Recording summary at step 7576.
+INFO:tensorflow:global step 7580: loss = 24.6325 (2.600 sec/step)
+INFO:tensorflow:global step 7590: loss = 25.4031 (1.800 sec/step)
+INFO:tensorflow:global step 7600: loss = 20.3472 (1.696 sec/step)
+INFO:tensorflow:Recording summary at step 7606.
+INFO:tensorflow:global step 7610: loss = 24.5208 (2.199 sec/step)
+INFO:tensorflow:global step 7620: loss = 15.0493 (1.907 sec/step)
+INFO:tensorflow:global step 7630: loss = 20.2176 (1.700 sec/step)
+INFO:tensorflow:Recording summary at step 7638.
+INFO:tensorflow:global step 7640: loss = 19.5316 (4.197 sec/step)
+INFO:tensorflow:global step 7650: loss = 26.4743 (1.999 sec/step)
+INFO:tensorflow:global step 7660: loss = 25.3433 (1.901 sec/step)
+INFO:tensorflow:Recording summary at step 7667.
+INFO:tensorflow:global step 7670: loss = 27.8023 (2.298 sec/step)
+INFO:tensorflow:global step 7680: loss = 26.1395 (1.899 sec/step)
+INFO:tensorflow:Saving checkpoint to path ./log/WF_addbolck3/model.ckpt
+INFO:tensorflow:global step 7690: loss = 23.4429 (1.794 sec/step)
+INFO:tensorflow:Recording summary at step 7698.
+INFO:tensorflow:global step 7700: loss = 28.8783 (4.287 sec/step)
+INFO:tensorflow:global step 7710: loss = 25.3052 (1.898 sec/step)
+INFO:tensorflow:global step 7720: loss = 25.0232 (1.690 sec/step)
+INFO:tensorflow:Recording summary at step 7727.
+INFO:tensorflow:global step 7730: loss = 28.4449 (2.291 sec/step)
+INFO:tensorflow:global step 7740: loss = 21.0505 (1.899 sec/step)
+INFO:tensorflow:global step 7750: loss = 23.8764 (1.798 sec/step)
+INFO:tensorflow:global step 7760: loss = 26.0047 (1.706 sec/step)
+INFO:tensorflow:Recording summary at step 7760.
+INFO:tensorflow:global step 7770: loss = 25.7056 (1.893 sec/step)
+INFO:tensorflow:global step 7780: loss = 31.9438 (1.794 sec/step)
+INFO:tensorflow:global step 7790: loss = 25.4979 (1.799 sec/step)
+INFO:tensorflow:Recording summary at step 7790.
+INFO:tensorflow:global step 7800: loss = 24.1708 (1.996 sec/step)
+INFO:tensorflow:global step 7810: loss = 23.6806 (2.102 sec/step)
+INFO:tensorflow:Recording summary at step 7818.
+INFO:tensorflow:global step 7820: loss = 24.3355 (4.599 sec/step)
+INFO:tensorflow:global step 7830: loss = 24.0218 (1.698 sec/step)
+INFO:tensorflow:global step 7840: loss = 23.4737 (1.698 sec/step)
+INFO:tensorflow:Recording summary at step 7844.
+INFO:tensorflow:global step 7850: loss = 20.6159 (2.198 sec/step)
+INFO:tensorflow:global step 7860: loss = 28.6167 (2.096 sec/step)
+INFO:tensorflow:global step 7870: loss = 26.0525 (2.000 sec/step)
+INFO:tensorflow:Recording summary at step 7876.
+INFO:tensorflow:global step 7880: loss = 23.2134 (2.499 sec/step)
+INFO:tensorflow:global step 7890: loss = 24.9381 (1.995 sec/step)
+INFO:tensorflow:global step 7900: loss = 24.4586 (1.897 sec/step)
+INFO:tensorflow:Recording summary at step 7908.
+INFO:tensorflow:global step 7910: loss = 25.4271 (4.399 sec/step)
+INFO:tensorflow:global step 7920: loss = 35.9053 (1.997 sec/step)
+INFO:tensorflow:global step 7930: loss = 30.0491 (2.000 sec/step)
+INFO:tensorflow:Recording summary at step 7939.
+INFO:tensorflow:global step 7940: loss = 32.1291 (2.095 sec/step)
+INFO:tensorflow:global step 7950: loss = 25.6763 (1.999 sec/step)
+INFO:tensorflow:global step 7960: loss = 41.0719 (1.898 sec/step)
+INFO:tensorflow:global step 7970: loss = 27.6236 (1.997 sec/step)
+INFO:tensorflow:Recording summary at step 7974.
+INFO:tensorflow:Saving checkpoint to path ./log/WF_addbolck3/model.ckpt
+INFO:tensorflow:global step 7980: loss = 24.3374 (2.406 sec/step)
+INFO:tensorflow:global step 7990: loss = 20.9433 (1.998 sec/step)
+INFO:tensorflow:global step 8000: loss = 19.2766 (2.097 sec/step)
+INFO:tensorflow:Recording summary at step 8004.
+INFO:tensorflow:global step 8010: loss = 21.4688 (1.996 sec/step)
+INFO:tensorflow:global step 8020: loss = 25.6072 (2.098 sec/step)
+INFO:tensorflow:global step 8030: loss = 29.9665 (1.896 sec/step)
+INFO:tensorflow:Recording summary at step 8035.
+INFO:tensorflow:global step 8040: loss = 33.9566 (2.106 sec/step)
+INFO:tensorflow:global step 8050: loss = 44.1783 (2.198 sec/step)
+INFO:tensorflow:global step 8060: loss = 19.7218 (1.899 sec/step)
+INFO:tensorflow:Recording summary at step 8068.
+INFO:tensorflow:global step 8070: loss = 26.8929 (4.899 sec/step)
+INFO:tensorflow:global step 8080: loss = 30.2476 (2.292 sec/step)
+INFO:tensorflow:global step 8090: loss = 27.2796 (2.009 sec/step)
+INFO:tensorflow:global step 8100: loss = 29.6346 (2.106 sec/step)
+INFO:tensorflow:Recording summary at step 8102.
+INFO:tensorflow:global step 8110: loss = 25.7471 (2.298 sec/step)
+INFO:tensorflow:global step 8120: loss = 24.6518 (2.196 sec/step)
+INFO:tensorflow:global step 8130: loss = 16.8686 (2.200 sec/step)
+INFO:tensorflow:Recording summary at step 8136.
+INFO:tensorflow:global step 8140: loss = 30.6273 (2.800 sec/step)
+INFO:tensorflow:global step 8150: loss = 18.1766 (1.998 sec/step)
+INFO:tensorflow:global step 8160: loss = 30.5293 (2.097 sec/step)
+INFO:tensorflow:Recording summary at step 8168.
+INFO:tensorflow:global step 8170: loss = 21.9094 (5.398 sec/step)
+INFO:tensorflow:global step 8180: loss = 23.3111 (2.398 sec/step)
+INFO:tensorflow:global step 8190: loss = 35.7227 (2.198 sec/step)
+INFO:tensorflow:global step 8200: loss = 28.9910 (2.097 sec/step)
+INFO:tensorflow:Recording summary at step 8200.
+INFO:tensorflow:global step 8210: loss = 33.4765 (2.298 sec/step)
+INFO:tensorflow:global step 8220: loss = 30.3160 (2.099 sec/step)
+INFO:tensorflow:global step 8230: loss = 25.9289 (2.097 sec/step)
+INFO:tensorflow:Recording summary at step 8233.
+INFO:tensorflow:Saving checkpoint to path ./log/WF_addbolck3/model.ckpt
+INFO:tensorflow:global step 8240: loss = 33.9302 (2.400 sec/step)
+INFO:tensorflow:global step 8250: loss = 24.5402 (1.898 sec/step)
+INFO:tensorflow:Recording summary at step 8259.
+INFO:tensorflow:global step 8260: loss = 28.8319 (1.708 sec/step)
+INFO:tensorflow:global step 8270: loss = 32.0760 (2.098 sec/step)
+INFO:tensorflow:global step 8280: loss = 20.7682 (2.198 sec/step)
+INFO:tensorflow:global step 8290: loss = 29.6934 (1.999 sec/step)
+INFO:tensorflow:Recording summary at step 8291.
+INFO:tensorflow:global step 8300: loss = 28.9478 (2.204 sec/step)
+INFO:tensorflow:global step 8310: loss = 38.2457 (2.094 sec/step)
+INFO:tensorflow:global step 8320: loss = 31.1466 (1.998 sec/step)
+INFO:tensorflow:Recording summary at step 8325.
+INFO:tensorflow:global step 8330: loss = 31.9394 (2.392 sec/step)
+INFO:tensorflow:global step 8340: loss = 33.1990 (2.093 sec/step)
+INFO:tensorflow:global step 8350: loss = 35.8633 (1.999 sec/step)
+INFO:tensorflow:global step 8360: loss = 42.4141 (2.103 sec/step)
+INFO:tensorflow:Recording summary at step 8360.
+INFO:tensorflow:global step 8370: loss = 32.9441 (1.997 sec/step)
+INFO:tensorflow:global step 8380: loss = 33.9120 (2.097 sec/step)
+INFO:tensorflow:global step 8390: loss = 30.5438 (1.899 sec/step)
+INFO:tensorflow:Recording summary at step 8395.
+INFO:tensorflow:global step 8400: loss = 29.4564 (2.498 sec/step)
+INFO:tensorflow:global step 8410: loss = 32.0592 (2.300 sec/step)
+INFO:tensorflow:global step 8420: loss = 33.0705 (2.198 sec/step)
+INFO:tensorflow:Recording summary at step 8427.
+INFO:tensorflow:global step 8430: loss = 18.9354 (2.698 sec/step)
+INFO:tensorflow:global step 8440: loss = 22.6473 (2.202 sec/step)
+INFO:tensorflow:global step 8450: loss = 21.3455 (2.098 sec/step)
+INFO:tensorflow:Recording summary at step 8456.
+INFO:tensorflow:global step 8460: loss = 27.5225 (2.497 sec/step)
+INFO:tensorflow:global step 8470: loss = 29.8970 (2.199 sec/step)
+INFO:tensorflow:global step 8480: loss = 24.3118 (1.891 sec/step)
+INFO:tensorflow:Recording summary at step 8487.
+INFO:tensorflow:global step 8490: loss = 19.7555 (2.700 sec/step)
+INFO:tensorflow:global step 8500: loss = 20.4153 (2.208 sec/step)
+INFO:tensorflow:Saving checkpoint to path ./log/WF_addbolck3/model.ckpt
+INFO:tensorflow:global step 8510: loss = 22.4900 (2.098 sec/step)
+INFO:tensorflow:Recording summary at step 8518.
+INFO:tensorflow:global step 8520: loss = 19.4898 (5.193 sec/step)
+INFO:tensorflow:global step 8530: loss = 14.6655 (2.498 sec/step)
+INFO:tensorflow:global step 8540: loss = 35.7593 (2.196 sec/step)
+INFO:tensorflow:global step 8550: loss = 22.2862 (1.898 sec/step)
+INFO:tensorflow:Recording summary at step 8553.
+INFO:tensorflow:global step 8560: loss = 25.6116 (2.097 sec/step)
+INFO:tensorflow:global step 8570: loss = 27.3245 (2.298 sec/step)
+INFO:tensorflow:global step 8580: loss = 28.2563 (2.098 sec/step)
+INFO:tensorflow:Recording summary at step 8584.
+INFO:tensorflow:global step 8590: loss = 29.0169 (2.197 sec/step)
+INFO:tensorflow:global step 8600: loss = 21.9511 (2.096 sec/step)
+INFO:tensorflow:global step 8610: loss = 28.8968 (2.096 sec/step)
+INFO:tensorflow:Recording summary at step 8618.
+INFO:tensorflow:global step 8620: loss = 21.8994 (5.701 sec/step)
+INFO:tensorflow:global step 8630: loss = 23.4352 (2.396 sec/step)
+INFO:tensorflow:global step 8640: loss = 24.1802 (1.997 sec/step)
+INFO:tensorflow:global step 8650: loss = 20.9690 (2.198 sec/step)
+INFO:tensorflow:Recording summary at step 8651.
+INFO:tensorflow:global step 8660: loss = 23.3981 (1.997 sec/step)
+INFO:tensorflow:global step 8670: loss = 29.2433 (2.392 sec/step)
+INFO:tensorflow:global step 8680: loss = 30.9819 (2.008 sec/step)
+INFO:tensorflow:Recording summary at step 8681.
+INFO:tensorflow:global step 8690: loss = 32.9755 (2.199 sec/step)
+INFO:tensorflow:global step 8700: loss = 36.5399 (2.297 sec/step)
+INFO:tensorflow:global step 8710: loss = 17.6705 (2.099 sec/step)
+INFO:tensorflow:Recording summary at step 8713.
+INFO:tensorflow:global step 8720: loss = 24.4954 (2.500 sec/step)
+INFO:tensorflow:global step 8730: loss = 19.4420 (2.092 sec/step)
+INFO:tensorflow:global step 8740: loss = 22.5366 (1.999 sec/step)
+INFO:tensorflow:Recording summary at step 8743.
+INFO:tensorflow:global step 8750: loss = 22.5277 (2.396 sec/step)
+INFO:tensorflow:global step 8760: loss = 19.8281 (1.999 sec/step)
+INFO:tensorflow:Saving checkpoint to path ./log/WF_addbolck3/model.ckpt
+INFO:tensorflow:global step 8770: loss = 35.0725 (1.897 sec/step)
+INFO:tensorflow:Recording summary at step 8775.
+INFO:tensorflow:global step 8780: loss = 23.4608 (2.302 sec/step)
+INFO:tensorflow:global step 8790: loss = 24.8013 (1.999 sec/step)
+INFO:tensorflow:global step 8800: loss = 26.9614 (1.795 sec/step)
+INFO:tensorflow:Recording summary at step 8809.
+INFO:tensorflow:global step 8810: loss = 32.1388 (2.293 sec/step)
+INFO:tensorflow:global step 8820: loss = 25.0916 (1.898 sec/step)
+INFO:tensorflow:global step 8830: loss = 23.6068 (2.098 sec/step)
+INFO:tensorflow:global step 8840: loss = 38.8207 (1.999 sec/step)
+INFO:tensorflow:Recording summary at step 8842.
+INFO:tensorflow:global step 8850: loss = 27.6285 (2.298 sec/step)
+INFO:tensorflow:global step 8860: loss = 30.8202 (2.097 sec/step)
+INFO:tensorflow:global step 8870: loss = 26.6162 (1.899 sec/step)
+INFO:tensorflow:Recording summary at step 8876.
+INFO:tensorflow:global step 8880: loss = 17.9100 (2.799 sec/step)
+INFO:tensorflow:global step 8890: loss = 17.1655 (2.198 sec/step)
+INFO:tensorflow:global step 8900: loss = 19.4194 (2.098 sec/step)
+INFO:tensorflow:Recording summary at step 8909.
+INFO:tensorflow:global step 8910: loss = 16.8324 (1.999 sec/step)
+INFO:tensorflow:global step 8920: loss = 21.8063 (1.998 sec/step)
+INFO:tensorflow:global step 8930: loss = 36.0563 (1.998 sec/step)
+INFO:tensorflow:global step 8940: loss = 33.7046 (2.198 sec/step)
+INFO:tensorflow:Recording summary at step 8942.
+INFO:tensorflow:global step 8950: loss = 26.2370 (2.494 sec/step)
+INFO:tensorflow:global step 8960: loss = 28.9551 (2.095 sec/step)
+INFO:tensorflow:global step 8970: loss = 28.1571 (2.098 sec/step)
+INFO:tensorflow:Recording summary at step 8975.
+INFO:tensorflow:global step 8980: loss = 31.5291 (2.398 sec/step)
+INFO:tensorflow:global step 8990: loss = 23.5115 (2.094 sec/step)
+INFO:tensorflow:global step 9000: loss = 19.4139 (1.989 sec/step)
+INFO:tensorflow:global step 9010: loss = 21.6609 (1.899 sec/step)
+INFO:tensorflow:Recording summary at step 9010.
+INFO:tensorflow:global step 9020: loss = 21.8437 (1.995 sec/step)
+INFO:tensorflow:global step 9030: loss = 37.9555 (1.898 sec/step)
+INFO:tensorflow:Saving checkpoint to path ./log/WF_addbolck3/model.ckpt
+INFO:tensorflow:Recording summary at step 9037.
+INFO:tensorflow:global step 9040: loss = 24.4420 (2.697 sec/step)
+INFO:tensorflow:global step 9050: loss = 19.9783 (2.095 sec/step)
+INFO:tensorflow:global step 9060: loss = 22.5279 (2.101 sec/step)
+INFO:tensorflow:global step 9070: loss = 26.5533 (2.104 sec/step)
+INFO:tensorflow:Recording summary at step 9070.
+INFO:tensorflow:global step 9080: loss = 37.3262 (2.191 sec/step)
+INFO:tensorflow:global step 9090: loss = 22.8837 (2.100 sec/step)
+INFO:tensorflow:global step 9100: loss = 29.5930 (2.099 sec/step)
+INFO:tensorflow:Recording summary at step 9103.
+INFO:tensorflow:global step 9110: loss = 38.9006 (2.396 sec/step)
+INFO:tensorflow:global step 9120: loss = 29.7730 (2.098 sec/step)
+INFO:tensorflow:global step 9130: loss = 26.7978 (2.196 sec/step)
+INFO:tensorflow:Recording summary at step 9137.
+INFO:tensorflow:global step 9140: loss = 21.4921 (3.099 sec/step)
+INFO:tensorflow:global step 9150: loss = 23.8661 (2.298 sec/step)
+INFO:tensorflow:global step 9160: loss = 33.3821 (2.199 sec/step)
+INFO:tensorflow:Recording summary at step 9168.
+INFO:tensorflow:global step 9170: loss = 21.8738 (5.599 sec/step)
+INFO:tensorflow:global step 9180: loss = 31.6751 (1.801 sec/step)
+INFO:tensorflow:global step 9190: loss = 22.8653 (2.097 sec/step)
+INFO:tensorflow:global step 9200: loss = 28.5064 (1.996 sec/step)
+INFO:tensorflow:Recording summary at step 9203.
+INFO:tensorflow:global step 9210: loss = 34.4755 (2.298 sec/step)
+INFO:tensorflow:global step 9220: loss = 29.7994 (2.099 sec/step)
+INFO:tensorflow:global step 9230: loss = 32.9664 (2.096 sec/step)
+INFO:tensorflow:Recording summary at step 9233.
+INFO:tensorflow:global step 9240: loss = 26.6139 (2.197 sec/step)
+INFO:tensorflow:global step 9250: loss = 28.4755 (2.099 sec/step)
+INFO:tensorflow:global step 9260: loss = 27.0579 (2.098 sec/step)
+INFO:tensorflow:Recording summary at step 9267.
+INFO:tensorflow:global step 9270: loss = 29.9125 (2.496 sec/step)
+INFO:tensorflow:global step 9280: loss = 27.6067 (2.099 sec/step)
+INFO:tensorflow:global step 9290: loss = 29.8446 (2.096 sec/step)
+INFO:tensorflow:Saving checkpoint to path ./log/WF_addbolck3/model.ckpt
+INFO:tensorflow:Recording summary at step 9296.
+INFO:tensorflow:global step 9300: loss = 23.2852 (2.699 sec/step)
+INFO:tensorflow:global step 9310: loss = 20.8480 (1.998 sec/step)
+INFO:tensorflow:global step 9320: loss = 26.1909 (1.898 sec/step)
+INFO:tensorflow:Recording summary at step 9327.
+INFO:tensorflow:global step 9330: loss = 23.8290 (2.606 sec/step)
+INFO:tensorflow:global step 9340: loss = 21.5379 (1.898 sec/step)
+INFO:tensorflow:global step 9350: loss = 34.2421 (2.100 sec/step)
+INFO:tensorflow:global step 9360: loss = 27.0161 (1.999 sec/step)
+INFO:tensorflow:Recording summary at step 9360.
+INFO:tensorflow:global step 9370: loss = 22.1564 (1.997 sec/step)
+INFO:tensorflow:global step 9380: loss = 25.1096 (1.989 sec/step)
+INFO:tensorflow:global step 9390: loss = 23.1339 (2.198 sec/step)
+INFO:tensorflow:Recording summary at step 9394.
+INFO:tensorflow:global step 9400: loss = 25.6281 (2.205 sec/step)
+INFO:tensorflow:global step 9410: loss = 25.3891 (1.905 sec/step)
+INFO:tensorflow:global step 9420: loss = 21.0000 (1.797 sec/step)
+INFO:tensorflow:Recording summary at step 9426.
+INFO:tensorflow:global step 9430: loss = 22.6793 (2.598 sec/step)
+INFO:tensorflow:global step 9440: loss = 20.1990 (2.000 sec/step)
+INFO:tensorflow:global step 9450: loss = 23.4905 (1.909 sec/step)
+INFO:tensorflow:Recording summary at step 9456.
+INFO:tensorflow:global step 9460: loss = 22.7272 (2.398 sec/step)
+INFO:tensorflow:global step 9470: loss = 27.2047 (1.998 sec/step)
+INFO:tensorflow:global step 9480: loss = 24.2501 (1.997 sec/step)
+INFO:tensorflow:Recording summary at step 9484.
+INFO:tensorflow:global step 9490: loss = 26.1909 (2.190 sec/step)
+INFO:tensorflow:global step 9500: loss = 24.0011 (1.897 sec/step)
+INFO:tensorflow:global step 9510: loss = 19.1921 (1.898 sec/step)
+INFO:tensorflow:Recording summary at step 9513.
+INFO:tensorflow:global step 9520: loss = 25.8847 (2.098 sec/step)
+INFO:tensorflow:global step 9530: loss = 19.4088 (1.812 sec/step)
+INFO:tensorflow:global step 9540: loss = 21.5343 (1.896 sec/step)
+INFO:tensorflow:Recording summary at step 9543.
+INFO:tensorflow:global step 9550: loss = 22.0345 (2.008 sec/step)
+INFO:tensorflow:global step 9560: loss = 33.0158 (1.897 sec/step)
+INFO:tensorflow:global step 9570: loss = 31.4657 (2.100 sec/step)
+INFO:tensorflow:Saving checkpoint to path ./log/WF_addbolck3/model.ckpt
+INFO:tensorflow:Recording summary at step 9570.
+INFO:tensorflow:global step 9580: loss = 31.1909 (2.101 sec/step)
+INFO:tensorflow:global step 9590: loss = 24.4724 (2.092 sec/step)
+INFO:tensorflow:Recording summary at step 9598.
+INFO:tensorflow:global step 9600: loss = 23.9744 (4.794 sec/step)
+INFO:tensorflow:global step 9610: loss = 17.5199 (2.295 sec/step)
+INFO:tensorflow:global step 9620: loss = 28.2759 (1.998 sec/step)
+INFO:tensorflow:Recording summary at step 9626.
+INFO:tensorflow:global step 9630: loss = 22.9749 (2.493 sec/step)
+INFO:tensorflow:global step 9640: loss = 23.1037 (1.798 sec/step)
+INFO:tensorflow:global step 9650: loss = 24.2305 (1.898 sec/step)
+INFO:tensorflow:Recording summary at step 9651.
+INFO:tensorflow:global step 9660: loss = 19.5783 (1.997 sec/step)
+INFO:tensorflow:global step 9670: loss = 30.1507 (1.898 sec/step)
+INFO:tensorflow:Recording summary at step 9678.
+INFO:tensorflow:global step 9680: loss = 20.4214 (4.198 sec/step)
+INFO:tensorflow:global step 9690: loss = 25.6630 (2.088 sec/step)
+INFO:tensorflow:global step 9700: loss = 28.3890 (1.699 sec/step)
+INFO:tensorflow:Recording summary at step 9703.
+INFO:tensorflow:global step 9710: loss = 27.4532 (2.111 sec/step)
+INFO:tensorflow:global step 9720: loss = 37.4033 (1.898 sec/step)
+INFO:tensorflow:global step 9730: loss = 28.6359 (1.697 sec/step)
+INFO:tensorflow:Recording summary at step 9730.
+INFO:tensorflow:global step 9740: loss = 29.2638 (2.005 sec/step)
+INFO:tensorflow:global step 9750: loss = 22.2998 (1.900 sec/step)
+INFO:tensorflow:Recording summary at step 9757.
+INFO:tensorflow:global step 9760: loss = 24.1217 (2.594 sec/step)
+INFO:tensorflow:global step 9770: loss = 17.8641 (1.996 sec/step)
+INFO:tensorflow:global step 9780: loss = 17.2356 (1.994 sec/step)
+INFO:tensorflow:Recording summary at step 9782.
+INFO:tensorflow:global step 9790: loss = 18.9956 (1.897 sec/step)
+INFO:tensorflow:global step 9800: loss = 21.3726 (1.993 sec/step)
+INFO:tensorflow:Recording summary at step 9808.
+INFO:tensorflow:global step 9810: loss = 21.3685 (4.995 sec/step)
+INFO:tensorflow:global step 9820: loss = 24.1290 (2.099 sec/step)
+INFO:tensorflow:global step 9830: loss = 19.4820 (1.799 sec/step)
+INFO:tensorflow:Recording summary at step 9835.
+INFO:tensorflow:global step 9840: loss = 24.7871 (2.199 sec/step)
+INFO:tensorflow:global step 9850: loss = 34.7598 (1.895 sec/step)
+INFO:tensorflow:Saving checkpoint to path ./log/WF_addbolck3/model.ckpt
+INFO:tensorflow:global step 9860: loss = 23.2065 (1.701 sec/step)
+INFO:tensorflow:Recording summary at step 9861.
+INFO:tensorflow:global step 9870: loss = 24.2635 (2.099 sec/step)
+INFO:tensorflow:global step 9880: loss = 26.7986 (1.999 sec/step)
+INFO:tensorflow:Recording summary at step 9887.
+INFO:tensorflow:global step 9890: loss = 22.3658 (2.597 sec/step)
+INFO:tensorflow:global step 9900: loss = 21.8738 (2.000 sec/step)
+INFO:tensorflow:global step 9910: loss = 21.0177 (1.698 sec/step)
+INFO:tensorflow:Recording summary at step 9915.
+INFO:tensorflow:global step 9920: loss = 21.1005 (2.188 sec/step)
+INFO:tensorflow:global step 9930: loss = 23.1374 (1.904 sec/step)
+INFO:tensorflow:global step 9940: loss = 17.9043 (1.889 sec/step)
+INFO:tensorflow:Recording summary at step 9940.
+INFO:tensorflow:global step 9950: loss = 20.2293 (1.997 sec/step)
+INFO:tensorflow:global step 9960: loss = 27.1627 (1.801 sec/step)
+INFO:tensorflow:Recording summary at step 9964.
+INFO:tensorflow:global step 9970: loss = 29.5324 (2.107 sec/step)
+INFO:tensorflow:global step 9980: loss = 40.3798 (1.800 sec/step)
+INFO:tensorflow:global step 9990: loss = 24.7547 (1.806 sec/step)
+INFO:tensorflow:Recording summary at step 9991.
+INFO:tensorflow:global step 10000: loss = 30.7009 (1.900 sec/step)
+INFO:tensorflow:global step 10010: loss = 39.2035 (1.699 sec/step)
+INFO:tensorflow:Recording summary at step 10016.
+INFO:tensorflow:global step 10020: loss = 26.8880 (2.299 sec/step)
+INFO:tensorflow:global step 10030: loss = 25.1624 (1.798 sec/step)
+INFO:tensorflow:global step 10040: loss = 29.1309 (1.708 sec/step)
+INFO:tensorflow:Recording summary at step 10042.
+INFO:tensorflow:global step 10050: loss = 33.7281 (1.992 sec/step)
+INFO:tensorflow:global step 10060: loss = 24.0070 (1.900 sec/step)
+INFO:tensorflow:Recording summary at step 10068.
+INFO:tensorflow:global step 10070: loss = 24.8777 (4.797 sec/step)
+INFO:tensorflow:global step 10080: loss = 28.2638 (1.991 sec/step)
+INFO:tensorflow:global step 10090: loss = 29.6291 (1.879 sec/step)
+INFO:tensorflow:Recording summary at step 10096.
+INFO:tensorflow:global step 10100: loss = 34.5280 (2.204 sec/step)
+INFO:tensorflow:global step 10110: loss = 28.7452 (1.698 sec/step)
+INFO:tensorflow:global step 10120: loss = 44.2464 (1.813 sec/step)
+INFO:tensorflow:Recording summary at step 10123.
+INFO:tensorflow:global step 10130: loss = 30.6049 (2.093 sec/step)
+INFO:tensorflow:global step 10140: loss = 34.9347 (1.903 sec/step)
+INFO:tensorflow:Saving checkpoint to path ./log/WF_addbolck3/model.ckpt
+INFO:tensorflow:global step 10150: loss = 33.4383 (1.705 sec/step)
+INFO:tensorflow:Recording summary at step 10150.
+INFO:tensorflow:global step 10160: loss = 27.7487 (1.896 sec/step)
+INFO:tensorflow:global step 10170: loss = 33.0186 (1.796 sec/step)
+INFO:tensorflow:Recording summary at step 10178.
+INFO:tensorflow:global step 10180: loss = 32.7532 (4.299 sec/step)
+INFO:tensorflow:global step 10190: loss = 28.8067 (2.000 sec/step)
+INFO:tensorflow:global step 10200: loss = 27.5381 (1.894 sec/step)
+INFO:tensorflow:Recording summary at step 10205.
+INFO:tensorflow:global step 10210: loss = 23.5661 (2.201 sec/step)
+INFO:tensorflow:global step 10220: loss = 22.2513 (1.695 sec/step)
+INFO:tensorflow:global step 10230: loss = 25.5457 (1.896 sec/step)
+INFO:tensorflow:Recording summary at step 10231.
+INFO:tensorflow:global step 10240: loss = 29.5340 (1.804 sec/step)
+INFO:tensorflow:global step 10250: loss = 27.5322 (1.813 sec/step)
+INFO:tensorflow:Recording summary at step 10256.
+INFO:tensorflow:global step 10260: loss = 23.7332 (2.298 sec/step)
+INFO:tensorflow:global step 10270: loss = 31.3944 (1.801 sec/step)
+INFO:tensorflow:global step 10280: loss = 20.6757 (1.794 sec/step)
+INFO:tensorflow:Recording summary at step 10281.
+INFO:tensorflow:global step 10290: loss = 23.5661 (1.994 sec/step)
+INFO:tensorflow:global step 10300: loss = 19.0614 (1.697 sec/step)
+INFO:tensorflow:Recording summary at step 10307.
+INFO:tensorflow:global step 10310: loss = 13.3263 (2.197 sec/step)
+INFO:tensorflow:global step 10320: loss = 24.9351 (1.792 sec/step)
+INFO:tensorflow:global step 10330: loss = 17.6658 (1.797 sec/step)
+INFO:tensorflow:Recording summary at step 10335.
+INFO:tensorflow:global step 10340: loss = 23.4660 (2.092 sec/step)
+INFO:tensorflow:global step 10350: loss = 24.4453 (1.798 sec/step)
+INFO:tensorflow:global step 10360: loss = 22.1242 (1.604 sec/step)
+INFO:tensorflow:Recording summary at step 10361.
+INFO:tensorflow:global step 10370: loss = 26.2143 (1.998 sec/step)
+INFO:tensorflow:global step 10380: loss = 30.5584 (1.699 sec/step)
+INFO:tensorflow:Recording summary at step 10386.
+INFO:tensorflow:global step 10390: loss = 24.9587 (2.094 sec/step)
+INFO:tensorflow:global step 10400: loss = 25.4669 (1.899 sec/step)
+INFO:tensorflow:global step 10410: loss = 21.0750 (1.699 sec/step)
+INFO:tensorflow:Recording summary at step 10413.
+INFO:tensorflow:global step 10420: loss = 21.9270 (2.096 sec/step)
+INFO:tensorflow:global step 10430: loss = 21.9296 (1.699 sec/step)
+INFO:tensorflow:Recording summary at step 10438.
+INFO:tensorflow:Saving checkpoint to path ./log/WF_addbolck3/model.ckpt
+INFO:tensorflow:global step 10440: loss = 22.3009 (4.697 sec/step)
+INFO:tensorflow:global step 10450: loss = 15.9449 (1.697 sec/step)
+INFO:tensorflow:global step 10460: loss = 29.6483 (1.690 sec/step)
+INFO:tensorflow:Recording summary at step 10464.
+INFO:tensorflow:global step 10470: loss = 26.4508 (1.898 sec/step)
+INFO:tensorflow:global step 10480: loss = 20.1004 (1.701 sec/step)
+INFO:tensorflow:global step 10490: loss = 24.2029 (1.801 sec/step)
+INFO:tensorflow:Recording summary at step 10491.
+INFO:tensorflow:global step 10500: loss = 16.5511 (1.998 sec/step)
+INFO:tensorflow:global step 10510: loss = 19.7881 (1.999 sec/step)
+INFO:tensorflow:Recording summary at step 10514.
+INFO:tensorflow:global step 10520: loss = 17.3305 (2.105 sec/step)
+INFO:tensorflow:global step 10530: loss = 25.1143 (1.597 sec/step)
+INFO:tensorflow:global step 10540: loss = 25.4003 (1.720 sec/step)
+INFO:tensorflow:Recording summary at step 10540.
+INFO:tensorflow:global step 10550: loss = 30.2794 (1.699 sec/step)
+INFO:tensorflow:global step 10560: loss = 20.4682 (1.703 sec/step)
+INFO:tensorflow:Recording summary at step 10568.
+INFO:tensorflow:global step 10570: loss = 18.3208 (4.203 sec/step)
+INFO:tensorflow:global step 10580: loss = 18.9260 (1.800 sec/step)
+INFO:tensorflow:global step 10590: loss = 29.9288 (1.692 sec/step)
+INFO:tensorflow:Recording summary at step 10594.
+INFO:tensorflow:global step 10600: loss = 21.1351 (1.800 sec/step)
+INFO:tensorflow:global step 10610: loss = 29.5473 (1.697 sec/step)
+INFO:tensorflow:global step 10620: loss = 31.3002 (1.896 sec/step)
+INFO:tensorflow:Recording summary at step 10621.
+INFO:tensorflow:global step 10630: loss = 20.1174 (2.195 sec/step)
+INFO:tensorflow:global step 10640: loss = 23.9985 (1.801 sec/step)
+INFO:tensorflow:Recording summary at step 10646.
+INFO:tensorflow:global step 10650: loss = 27.1230 (2.319 sec/step)
+INFO:tensorflow:global step 10660: loss = 20.5677 (2.091 sec/step)
+INFO:tensorflow:global step 10670: loss = 24.1640 (1.901 sec/step)
+INFO:tensorflow:Recording summary at step 10670.
+INFO:tensorflow:global step 10680: loss = 20.3663 (2.004 sec/step)
+INFO:tensorflow:global step 10690: loss = 25.5387 (1.999 sec/step)
+INFO:tensorflow:Recording summary at step 10696.
+INFO:tensorflow:global step 10700: loss = 28.1829 (2.100 sec/step)
+INFO:tensorflow:global step 10710: loss = 21.1488 (1.997 sec/step)
+INFO:tensorflow:global step 10720: loss = 30.7847 (1.799 sec/step)
+INFO:tensorflow:Recording summary at step 10727.
+INFO:tensorflow:global step 10730: loss = 31.6599 (2.498 sec/step)
+INFO:tensorflow:Saving checkpoint to path ./log/WF_addbolck3/model.ckpt
+INFO:tensorflow:global step 10740: loss = 25.8938 (1.999 sec/step)
+INFO:tensorflow:global step 10750: loss = 21.3964 (1.898 sec/step)
+INFO:tensorflow:Recording summary at step 10756.
+INFO:tensorflow:global step 10760: loss = 21.5273 (2.301 sec/step)
+INFO:tensorflow:global step 10770: loss = 27.4176 (2.097 sec/step)
+INFO:tensorflow:global step 10780: loss = 30.6492 (1.901 sec/step)
+INFO:tensorflow:Recording summary at step 10784.
+INFO:tensorflow:global step 10790: loss = 21.8603 (1.997 sec/step)
+INFO:tensorflow:global step 10800: loss = 21.9630 (1.898 sec/step)
+INFO:tensorflow:global step 10810: loss = 19.6481 (1.799 sec/step)
+INFO:tensorflow:Recording summary at step 10814.
+INFO:tensorflow:global step 10820: loss = 22.5399 (2.100 sec/step)
+INFO:tensorflow:global step 10830: loss = 22.5886 (1.798 sec/step)
+INFO:tensorflow:global step 10840: loss = 22.0432 (1.904 sec/step)
+INFO:tensorflow:Recording summary at step 10840.
+INFO:tensorflow:global step 10850: loss = 21.5923 (1.901 sec/step)
+INFO:tensorflow:global step 10860: loss = 24.8193 (1.898 sec/step)
+INFO:tensorflow:Recording summary at step 10868.
+INFO:tensorflow:global step 10870: loss = 29.5490 (4.297 sec/step)
+INFO:tensorflow:global step 10880: loss = 26.1143 (1.876 sec/step)
+INFO:tensorflow:global step 10890: loss = 22.6957 (1.692 sec/step)
+INFO:tensorflow:Recording summary at step 10895.
+INFO:tensorflow:global step 10900: loss = 28.6082 (2.096 sec/step)
+INFO:tensorflow:global step 10910: loss = 25.2512 (1.700 sec/step)
+INFO:tensorflow:global step 10920: loss = 22.1575 (1.695 sec/step)
+INFO:tensorflow:Recording summary at step 10921.
+INFO:tensorflow:global step 10930: loss = 24.5733 (1.906 sec/step)
+INFO:tensorflow:global step 10940: loss = 28.8916 (1.794 sec/step)
+INFO:tensorflow:Recording summary at step 10948.
+INFO:tensorflow:global step 10950: loss = 26.7044 (4.609 sec/step)
+INFO:tensorflow:global step 10960: loss = 29.6973 (1.706 sec/step)
+INFO:tensorflow:global step 10970: loss = 22.4852 (1.892 sec/step)
+INFO:tensorflow:Recording summary at step 10977.
+INFO:tensorflow:global step 10980: loss = 28.3369 (2.297 sec/step)
+INFO:tensorflow:global step 10990: loss = 31.4343 (1.897 sec/step)
+INFO:tensorflow:global step 11000: loss = 28.4358 (1.889 sec/step)
+INFO:tensorflow:Recording summary at step 11004.
+INFO:tensorflow:global step 11010: loss = 30.3586 (1.899 sec/step)
+INFO:tensorflow:global step 11020: loss = 28.3660 (1.797 sec/step)
+INFO:tensorflow:global step 11030: loss = 24.3735 (1.698 sec/step)
+INFO:tensorflow:Saving checkpoint to path ./log/WF_addbolck3/model.ckpt
+INFO:tensorflow:Recording summary at step 11033.
+INFO:tensorflow:global step 11040: loss = 35.5334 (1.902 sec/step)
+INFO:tensorflow:global step 11050: loss = 35.7029 (1.798 sec/step)
+INFO:tensorflow:global step 11060: loss = 25.5845 (1.899 sec/step)
+INFO:tensorflow:Recording summary at step 11061.
+INFO:tensorflow:global step 11070: loss = 27.9033 (1.981 sec/step)
+INFO:tensorflow:global step 11080: loss = 20.3607 (1.603 sec/step)
+INFO:tensorflow:Recording summary at step 11088.
+INFO:tensorflow:global step 11090: loss = 22.5970 (4.202 sec/step)
+INFO:tensorflow:global step 11100: loss = 25.4727 (1.899 sec/step)
+INFO:tensorflow:global step 11110: loss = 26.0159 (1.598 sec/step)
+INFO:tensorflow:Recording summary at step 11115.
+INFO:tensorflow:global step 11120: loss = 24.7388 (2.299 sec/step)
+INFO:tensorflow:global step 11130: loss = 23.0198 (1.796 sec/step)
+INFO:tensorflow:global step 11140: loss = 24.0887 (2.188 sec/step)
+INFO:tensorflow:Recording summary at step 11142.
+INFO:tensorflow:global step 11150: loss = 29.1685 (1.898 sec/step)
+INFO:tensorflow:global step 11160: loss = 19.5585 (1.798 sec/step)
+INFO:tensorflow:Recording summary at step 11169.
+INFO:tensorflow:global step 11170: loss = 18.1540 (2.298 sec/step)
+INFO:tensorflow:global step 11180: loss = 21.4204 (1.892 sec/step)
+INFO:tensorflow:global step 11190: loss = 15.9790 (1.697 sec/step)
+INFO:tensorflow:Recording summary at step 11195.
+INFO:tensorflow:global step 11200: loss = 19.2677 (1.999 sec/step)
+INFO:tensorflow:global step 11210: loss = 27.5022 (1.699 sec/step)
+INFO:tensorflow:global step 11220: loss = 18.1093 (1.797 sec/step)
+INFO:tensorflow:Recording summary at step 11221.
+INFO:tensorflow:global step 11230: loss = 26.0099 (1.597 sec/step)
+INFO:tensorflow:global step 11240: loss = 28.2763 (1.687 sec/step)
+INFO:tensorflow:Recording summary at step 11248.
+INFO:tensorflow:global step 11250: loss = 24.4634 (3.998 sec/step)
+INFO:tensorflow:global step 11260: loss = 27.3597 (1.798 sec/step)
+INFO:tensorflow:global step 11270: loss = 25.2543 (1.599 sec/step)
+INFO:tensorflow:Recording summary at step 11276.
+INFO:tensorflow:global step 11280: loss = 18.9945 (1.993 sec/step)
+INFO:tensorflow:global step 11290: loss = 24.2134 (1.692 sec/step)
+INFO:tensorflow:global step 11300: loss = 20.5735 (1.698 sec/step)
+INFO:tensorflow:Recording summary at step 11303.
+INFO:tensorflow:global step 11310: loss = 18.1097 (1.697 sec/step)
+INFO:tensorflow:global step 11320: loss = 23.3248 (1.792 sec/step)
+INFO:tensorflow:global step 11330: loss = 16.6597 (1.711 sec/step)
+INFO:tensorflow:Recording summary at step 11331.
+INFO:tensorflow:global step 11340: loss = 19.4085 (1.696 sec/step)
+INFO:tensorflow:Saving checkpoint to path ./log/WF_addbolck3/model.ckpt
+INFO:tensorflow:global step 11350: loss = 25.5177 (1.711 sec/step)
+INFO:tensorflow:Recording summary at step 11356.
+INFO:tensorflow:global step 11360: loss = 30.1969 (1.896 sec/step)
+INFO:tensorflow:global step 11370: loss = 26.4920 (1.700 sec/step)
+INFO:tensorflow:global step 11380: loss = 20.1927 (1.601 sec/step)
+INFO:tensorflow:Recording summary at step 11384.
+INFO:tensorflow:global step 11390: loss = 15.6907 (1.897 sec/step)
+INFO:tensorflow:global step 11400: loss = 20.6081 (1.798 sec/step)
+INFO:tensorflow:Recording summary at step 11409.
+INFO:tensorflow:global step 11410: loss = 19.7398 (2.198 sec/step)
+INFO:tensorflow:global step 11420: loss = 23.0481 (1.903 sec/step)
+INFO:tensorflow:global step 11430: loss = 23.0758 (1.697 sec/step)
+INFO:tensorflow:Recording summary at step 11436.
+INFO:tensorflow:global step 11440: loss = 23.1554 (1.905 sec/step)
+INFO:tensorflow:global step 11450: loss = 25.1866 (1.510 sec/step)
+INFO:tensorflow:global step 11460: loss = 27.0225 (1.691 sec/step)
+INFO:tensorflow:Recording summary at step 11462.
+INFO:tensorflow:global step 11470: loss = 18.2253 (1.600 sec/step)
+INFO:tensorflow:global step 11480: loss = 23.6439 (1.799 sec/step)
+INFO:tensorflow:Recording summary at step 11488.
+INFO:tensorflow:global step 11490: loss = 23.0300 (4.398 sec/step)
+INFO:tensorflow:global step 11500: loss = 26.2907 (1.799 sec/step)
+INFO:tensorflow:global step 11510: loss = 31.8359 (1.703 sec/step)
+INFO:tensorflow:Recording summary at step 11515.
+INFO:tensorflow:global step 11520: loss = 25.8445 (2.001 sec/step)
+INFO:tensorflow:global step 11530: loss = 24.2582 (1.699 sec/step)
+INFO:tensorflow:global step 11540: loss = 16.6726 (1.799 sec/step)
+INFO:tensorflow:Recording summary at step 11543.
+INFO:tensorflow:global step 11550: loss = 25.3694 (1.799 sec/step)
+INFO:tensorflow:global step 11560: loss = 18.9595 (1.699 sec/step)
+INFO:tensorflow:Recording summary at step 11567.
+INFO:tensorflow:global step 11570: loss = 20.9461 (2.100 sec/step)
+INFO:tensorflow:global step 11580: loss = 24.8313 (1.987 sec/step)
+INFO:tensorflow:global step 11590: loss = 21.4308 (1.698 sec/step)
+INFO:tensorflow:Recording summary at step 11592.
+INFO:tensorflow:global step 11600: loss = 27.6949 (1.604 sec/step)
+INFO:tensorflow:global step 11610: loss = 27.7565 (1.795 sec/step)
+INFO:tensorflow:Recording summary at step 11618.
+INFO:tensorflow:global step 11620: loss = 24.5718 (4.697 sec/step)
+INFO:tensorflow:global step 11630: loss = 15.9545 (1.705 sec/step)
+INFO:tensorflow:global step 11640: loss = 22.9442 (1.697 sec/step)
+INFO:tensorflow:Recording summary at step 11646.
+INFO:tensorflow:global step 11650: loss = 21.8509 (1.896 sec/step)
+INFO:tensorflow:global step 11660: loss = 23.5656 (1.699 sec/step)
+INFO:tensorflow:Saving checkpoint to path ./log/WF_addbolck3/model.ckpt
+INFO:tensorflow:global step 11670: loss = 18.6067 (1.799 sec/step)
+INFO:tensorflow:Recording summary at step 11673.
+INFO:tensorflow:global step 11680: loss = 23.1145 (1.703 sec/step)
+INFO:tensorflow:global step 11690: loss = 30.3955 (1.795 sec/step)
+INFO:tensorflow:global step 11700: loss = 21.0137 (1.485 sec/step)
+INFO:tensorflow:Recording summary at step 11701.
+INFO:tensorflow:global step 11710: loss = 24.0003 (1.900 sec/step)
+INFO:tensorflow:global step 11720: loss = 24.2511 (1.600 sec/step)
+INFO:tensorflow:Recording summary at step 11729.
+INFO:tensorflow:global step 11730: loss = 17.2934 (2.291 sec/step)
+INFO:tensorflow:global step 11740: loss = 23.7094 (1.800 sec/step)
+INFO:tensorflow:global step 11750: loss = 25.7507 (1.699 sec/step)
+INFO:tensorflow:Recording summary at step 11756.
+INFO:tensorflow:global step 11760: loss = 29.7591 (2.194 sec/step)
+INFO:tensorflow:global step 11770: loss = 20.4481 (1.600 sec/step)
+INFO:tensorflow:global step 11780: loss = 28.1153 (1.703 sec/step)
+INFO:tensorflow:Recording summary at step 11782.
+INFO:tensorflow:global step 11790: loss = 32.7076 (1.598 sec/step)
+INFO:tensorflow:global step 11800: loss = 24.2056 (1.598 sec/step)
+INFO:tensorflow:Recording summary at step 11808.
+INFO:tensorflow:global step 11810: loss = 27.0008 (3.998 sec/step)
+INFO:tensorflow:global step 11820: loss = 23.7734 (1.804 sec/step)
+INFO:tensorflow:global step 11830: loss = 29.8843 (1.698 sec/step)
+INFO:tensorflow:Recording summary at step 11837.
+INFO:tensorflow:global step 11840: loss = 14.8667 (2.097 sec/step)
+INFO:tensorflow:global step 11850: loss = 29.5146 (1.799 sec/step)
+INFO:tensorflow:global step 11860: loss = 21.9639 (1.801 sec/step)
+INFO:tensorflow:Recording summary at step 11865.
+INFO:tensorflow:global step 11870: loss = 35.5769 (1.902 sec/step)
+INFO:tensorflow:global step 11880: loss = 21.5404 (1.886 sec/step)
+INFO:tensorflow:global step 11890: loss = 43.4896 (1.504 sec/step)
+INFO:tensorflow:Recording summary at step 11894.
+INFO:tensorflow:global step 11900: loss = 31.2846 (1.903 sec/step)
+INFO:tensorflow:global step 11910: loss = 24.5901 (1.599 sec/step)
+INFO:tensorflow:global step 11920: loss = 30.2263 (1.496 sec/step)
+INFO:tensorflow:Recording summary at step 11921.
+INFO:tensorflow:global step 11930: loss = 28.2066 (1.792 sec/step)
+INFO:tensorflow:global step 11940: loss = 24.1701 (1.698 sec/step)
+INFO:tensorflow:global step 11950: loss = 30.5015 (1.600 sec/step)
+INFO:tensorflow:Recording summary at step 11950.
+INFO:tensorflow:global step 11960: loss = 26.5849 (1.897 sec/step)
+INFO:tensorflow:global step 11970: loss = 24.4243 (1.600 sec/step)
+INFO:tensorflow:Recording summary at step 11976.
+INFO:tensorflow:global step 11980: loss = 24.8559 (2.083 sec/step)
+INFO:tensorflow:Saving checkpoint to path ./log/WF_addbolck3/model.ckpt
+INFO:tensorflow:global step 11990: loss = 19.5585 (1.700 sec/step)
+INFO:tensorflow:global step 12000: loss = 24.5591 (1.696 sec/step)
+INFO:tensorflow:Recording summary at step 12001.
+INFO:tensorflow:global step 12010: loss = 20.6872 (1.798 sec/step)
+INFO:tensorflow:global step 12020: loss = 27.3579 (1.794 sec/step)
+INFO:tensorflow:Recording summary at step 12027.
+INFO:tensorflow:global step 12030: loss = 25.2744 (2.098 sec/step)
+INFO:tensorflow:global step 12040: loss = 23.7264 (1.809 sec/step)
+INFO:tensorflow:global step 12050: loss = 18.1067 (1.898 sec/step)
+INFO:tensorflow:Recording summary at step 12053.
+INFO:tensorflow:global step 12060: loss = 16.5667 (1.898 sec/step)
+INFO:tensorflow:global step 12070: loss = 21.4854 (1.598 sec/step)
+INFO:tensorflow:Recording summary at step 12078.
+INFO:tensorflow:global step 12080: loss = 22.8817 (4.199 sec/step)
+INFO:tensorflow:global step 12090: loss = 16.6814 (1.701 sec/step)
+INFO:tensorflow:global step 12100: loss = 21.5675 (1.699 sec/step)
+INFO:tensorflow:Recording summary at step 12102.
+INFO:tensorflow:global step 12110: loss = 22.9040 (1.703 sec/step)
+INFO:tensorflow:global step 12120: loss = 19.0411 (1.811 sec/step)
+INFO:tensorflow:Recording summary at step 12128.
+INFO:tensorflow:global step 12130: loss = 27.1626 (3.898 sec/step)
+INFO:tensorflow:global step 12140: loss = 21.2855 (1.899 sec/step)
+INFO:tensorflow:global step 12150: loss = 31.2401 (1.510 sec/step)
+INFO:tensorflow:Recording summary at step 12156.
+INFO:tensorflow:global step 12160: loss = 28.3041 (1.897 sec/step)
+INFO:tensorflow:global step 12170: loss = 20.4685 (1.597 sec/step)
+INFO:tensorflow:global step 12180: loss = 17.6534 (1.696 sec/step)
+INFO:tensorflow:Recording summary at step 12184.
+INFO:tensorflow:global step 12190: loss = 24.7246 (1.899 sec/step)
+INFO:tensorflow:global step 12200: loss = 25.1280 (1.695 sec/step)
+INFO:tensorflow:global step 12210: loss = 22.1669 (1.610 sec/step)
+INFO:tensorflow:Recording summary at step 12212.
+INFO:tensorflow:global step 12220: loss = 28.6849 (1.798 sec/step)
+INFO:tensorflow:global step 12230: loss = 26.1569 (1.798 sec/step)
+INFO:tensorflow:Recording summary at step 12239.
+INFO:tensorflow:global step 12240: loss = 26.1977 (1.794 sec/step)
+INFO:tensorflow:global step 12250: loss = 27.9575 (1.899 sec/step)
+INFO:tensorflow:global step 12260: loss = 22.0196 (1.699 sec/step)
+INFO:tensorflow:Recording summary at step 12269.
+INFO:tensorflow:global step 12270: loss = 22.0173 (1.699 sec/step)
+INFO:tensorflow:global step 12280: loss = 20.4007 (2.085 sec/step)
+INFO:tensorflow:global step 12290: loss = 17.2262 (1.796 sec/step)
+INFO:tensorflow:Recording summary at step 12299.
+INFO:tensorflow:global step 12300: loss = 20.9362 (1.698 sec/step)
+INFO:tensorflow:Saving checkpoint to path ./log/WF_addbolck3/model.ckpt
+INFO:tensorflow:global step 12310: loss = 25.9346 (1.899 sec/step)
+INFO:tensorflow:global step 12320: loss = 25.4197 (1.802 sec/step)
+INFO:tensorflow:global step 12330: loss = 24.6507 (1.498 sec/step)
+INFO:tensorflow:Recording summary at step 12331.
+INFO:tensorflow:global step 12340: loss = 20.6549 (4.497 sec/step)
+INFO:tensorflow:global step 12350: loss = 16.5446 (1.698 sec/step)
+INFO:tensorflow:global step 12360: loss = 22.4042 (1.796 sec/step)
+INFO:tensorflow:Recording summary at step 12364.
+INFO:tensorflow:global step 12370: loss = 28.5392 (1.499 sec/step)
+INFO:tensorflow:global step 12380: loss = 26.4094 (1.798 sec/step)
+INFO:tensorflow:global step 12390: loss = 30.5848 (1.697 sec/step)
+INFO:tensorflow:global step 12400: loss = 28.8172 (1.602 sec/step)
+INFO:tensorflow:Recording summary at step 12400.
+INFO:tensorflow:global step 12410: loss = 26.2173 (1.897 sec/step)
+INFO:tensorflow:global step 12420: loss = 29.6822 (1.598 sec/step)
+INFO:tensorflow:global step 12430: loss = 21.3480 (1.798 sec/step)
+INFO:tensorflow:Recording summary at step 12431.
+INFO:tensorflow:global step 12440: loss = 20.9113 (4.198 sec/step)
+INFO:tensorflow:global step 12450: loss = 17.0782 (1.795 sec/step)
+INFO:tensorflow:global step 12460: loss = 23.4239 (1.600 sec/step)
+INFO:tensorflow:Recording summary at step 12464.
+INFO:tensorflow:global step 12470: loss = 18.7004 (1.592 sec/step)
+INFO:tensorflow:global step 12480: loss = 25.2582 (1.801 sec/step)
+INFO:tensorflow:global step 12490: loss = 19.2105 (1.600 sec/step)
+INFO:tensorflow:Recording summary at step 12497.
+INFO:tensorflow:global step 12500: loss = 28.0521 (1.497 sec/step)
+INFO:tensorflow:global step 12510: loss = 28.2732 (1.793 sec/step)
+INFO:tensorflow:global step 12520: loss = 26.6493 (1.794 sec/step)
+INFO:tensorflow:global step 12530: loss = 27.7128 (1.787 sec/step)
+INFO:tensorflow:Recording summary at step 12530.
+INFO:tensorflow:global step 12540: loss = 28.2643 (1.797 sec/step)
+INFO:tensorflow:global step 12550: loss = 19.8186 (1.799 sec/step)
+INFO:tensorflow:global step 12560: loss = 22.7782 (1.793 sec/step)
+INFO:tensorflow:Recording summary at step 12560.
+INFO:tensorflow:global step 12570: loss = 25.3135 (4.406 sec/step)
+INFO:tensorflow:global step 12580: loss = 26.6010 (1.695 sec/step)
+INFO:tensorflow:global step 12590: loss = 19.1590 (1.598 sec/step)
+INFO:tensorflow:Recording summary at step 12594.
+INFO:tensorflow:global step 12600: loss = 22.6977 (1.599 sec/step)
+INFO:tensorflow:global step 12610: loss = 17.0705 (1.701 sec/step)
+INFO:tensorflow:global step 12620: loss = 21.8071 (1.697 sec/step)
+INFO:tensorflow:Recording summary at step 12628.
+INFO:tensorflow:global step 12630: loss = 20.2434 (1.598 sec/step)
+INFO:tensorflow:Saving checkpoint to path ./log/WF_addbolck3/model.ckpt
+INFO:tensorflow:global step 12640: loss = 20.8524 (1.697 sec/step)
+INFO:tensorflow:global step 12650: loss = 25.3226 (1.601 sec/step)
+INFO:tensorflow:global step 12660: loss = 22.4649 (1.698 sec/step)
+INFO:tensorflow:Recording summary at step 12660.
+INFO:tensorflow:global step 12670: loss = 30.4687 (2.099 sec/step)
+INFO:tensorflow:global step 12680: loss = 25.4862 (1.596 sec/step)
+INFO:tensorflow:global step 12690: loss = 23.2184 (1.607 sec/step)
+INFO:tensorflow:Recording summary at step 12692.
+INFO:tensorflow:global step 12700: loss = 22.7207 (1.898 sec/step)
+INFO:tensorflow:global step 12710: loss = 31.9268 (1.799 sec/step)
+INFO:tensorflow:global step 12720: loss = 30.9768 (1.797 sec/step)
+INFO:tensorflow:Recording summary at step 12725.
+INFO:tensorflow:global step 12730: loss = 27.1981 (1.500 sec/step)
+INFO:tensorflow:global step 12740: loss = 24.0345 (1.797 sec/step)
+INFO:tensorflow:global step 12750: loss = 19.1999 (1.598 sec/step)
+INFO:tensorflow:Recording summary at step 12759.
+INFO:tensorflow:global step 12760: loss = 25.0833 (1.705 sec/step)
+INFO:tensorflow:global step 12770: loss = 37.1537 (1.896 sec/step)
+INFO:tensorflow:global step 12780: loss = 40.3981 (1.600 sec/step)
+INFO:tensorflow:global step 12790: loss = 25.8233 (1.596 sec/step)
+INFO:tensorflow:Recording summary at step 12794.
+INFO:tensorflow:global step 12800: loss = 28.6835 (2.201 sec/step)
+INFO:tensorflow:global step 12810: loss = 34.3597 (1.700 sec/step)
+INFO:tensorflow:global step 12820: loss = 26.2254 (1.603 sec/step)
+INFO:tensorflow:Recording summary at step 12828.
+INFO:tensorflow:global step 12830: loss = 33.2272 (1.694 sec/step)
+INFO:tensorflow:global step 12840: loss = 37.8402 (1.796 sec/step)
+INFO:tensorflow:global step 12850: loss = 31.7743 (1.798 sec/step)
+INFO:tensorflow:global step 12860: loss = 27.1551 (1.796 sec/step)
+INFO:tensorflow:Recording summary at step 12860.
+INFO:tensorflow:global step 12870: loss = 17.3503 (1.895 sec/step)
+INFO:tensorflow:global step 12880: loss = 25.5643 (1.898 sec/step)
+INFO:tensorflow:global step 12890: loss = 18.2214 (1.699 sec/step)
+INFO:tensorflow:Recording summary at step 12891.
+INFO:tensorflow:global step 12900: loss = 23.1396 (2.395 sec/step)
+INFO:tensorflow:global step 12910: loss = 19.3302 (1.797 sec/step)
+INFO:tensorflow:global step 12920: loss = 25.8855 (1.799 sec/step)
+INFO:tensorflow:Recording summary at step 12923.
+INFO:tensorflow:global step 12930: loss = 20.7974 (1.686 sec/step)
+INFO:tensorflow:global step 12940: loss = 22.8550 (1.799 sec/step)
+INFO:tensorflow:global step 12950: loss = 19.8311 (1.797 sec/step)
+INFO:tensorflow:Recording summary at step 12957.
+INFO:tensorflow:global step 12960: loss = 20.2217 (1.699 sec/step)
+INFO:tensorflow:Saving checkpoint to path ./log/WF_addbolck3/model.ckpt
+INFO:tensorflow:global step 12970: loss = 27.2058 (1.798 sec/step)
+INFO:tensorflow:global step 12980: loss = 15.0008 (1.714 sec/step)
+INFO:tensorflow:Recording summary at step 12986.
+INFO:tensorflow:global step 12990: loss = 17.1112 (1.806 sec/step)
+INFO:tensorflow:global step 13000: loss = 20.6726 (1.801 sec/step)
+INFO:tensorflow:global step 13010: loss = 28.1479 (1.697 sec/step)
+INFO:tensorflow:global step 13020: loss = 21.6842 (1.701 sec/step)
+INFO:tensorflow:Recording summary at step 13021.
+INFO:tensorflow:global step 13030: loss = 35.1258 (2.090 sec/step)
+INFO:tensorflow:global step 13040: loss = 19.4779 (1.801 sec/step)
+INFO:tensorflow:global step 13050: loss = 30.2896 (1.697 sec/step)
+INFO:tensorflow:Recording summary at step 13050.
+INFO:tensorflow:global step 13060: loss = 20.6470 (1.900 sec/step)
+INFO:tensorflow:global step 13070: loss = 18.7335 (1.797 sec/step)
+INFO:tensorflow:global step 13080: loss = 20.7435 (1.898 sec/step)
+INFO:tensorflow:Recording summary at step 13081.
+INFO:tensorflow:global step 13090: loss = 22.8900 (2.099 sec/step)
+INFO:tensorflow:global step 13100: loss = 18.7995 (1.698 sec/step)
+INFO:tensorflow:global step 13110: loss = 16.9807 (1.892 sec/step)
+INFO:tensorflow:Recording summary at step 13111.
+INFO:tensorflow:global step 13120: loss = 17.6649 (2.198 sec/step)
+INFO:tensorflow:global step 13130: loss = 23.6240 (1.796 sec/step)
+INFO:tensorflow:global step 13140: loss = 27.2123 (1.797 sec/step)
+INFO:tensorflow:Recording summary at step 13142.
+INFO:tensorflow:global step 13150: loss = 22.1872 (2.295 sec/step)
+INFO:tensorflow:global step 13160: loss = 18.1743 (1.896 sec/step)
+INFO:tensorflow:global step 13170: loss = 18.7103 (1.794 sec/step)
+INFO:tensorflow:Recording summary at step 13174.
+INFO:tensorflow:global step 13180: loss = 18.0947 (2.396 sec/step)
+INFO:tensorflow:global step 13190: loss = 19.8311 (1.697 sec/step)
+INFO:tensorflow:global step 13200: loss = 20.9724 (1.897 sec/step)
+INFO:tensorflow:Recording summary at step 13201.
+INFO:tensorflow:global step 13210: loss = 14.6672 (1.898 sec/step)
+INFO:tensorflow:global step 13220: loss = 27.3902 (1.700 sec/step)
+INFO:tensorflow:global step 13230: loss = 20.2393 (1.798 sec/step)
+INFO:tensorflow:Recording summary at step 13234.
+INFO:tensorflow:global step 13240: loss = 24.9484 (2.205 sec/step)
+INFO:tensorflow:global step 13250: loss = 17.9231 (1.697 sec/step)
+INFO:tensorflow:global step 13260: loss = 21.2023 (1.695 sec/step)
+INFO:tensorflow:Recording summary at step 13265.
+INFO:tensorflow:Saving checkpoint to path ./log/WF_addbolck3/model.ckpt
+INFO:tensorflow:global step 13270: loss = 23.7119 (2.187 sec/step)
+INFO:tensorflow:global step 13280: loss = 21.2720 (1.795 sec/step)
+INFO:tensorflow:global step 13290: loss = 27.1256 (1.698 sec/step)
+INFO:tensorflow:Recording summary at step 13294.
+INFO:tensorflow:global step 13300: loss = 28.5281 (1.503 sec/step)
+INFO:tensorflow:global step 13310: loss = 20.4673 (1.707 sec/step)
+INFO:tensorflow:global step 13320: loss = 21.9021 (1.797 sec/step)
+INFO:tensorflow:Recording summary at step 13329.
+INFO:tensorflow:global step 13330: loss = 19.1262 (1.591 sec/step)
+INFO:tensorflow:global step 13340: loss = 19.0312 (2.009 sec/step)
+INFO:tensorflow:global step 13350: loss = 14.3739 (1.890 sec/step)
+INFO:tensorflow:global step 13360: loss = 23.5553 (1.698 sec/step)
+INFO:tensorflow:Recording summary at step 13361.
+INFO:tensorflow:global step 13370: loss = 21.5837 (2.203 sec/step)
+INFO:tensorflow:global step 13380: loss = 19.4520 (1.599 sec/step)
+INFO:tensorflow:global step 13390: loss = 27.9778 (1.499 sec/step)
+INFO:tensorflow:Recording summary at step 13393.
+INFO:tensorflow:global step 13400: loss = 29.0755 (1.504 sec/step)
+INFO:tensorflow:global step 13410: loss = 39.0037 (1.795 sec/step)
+INFO:tensorflow:global step 13420: loss = 16.8541 (1.702 sec/step)
+INFO:tensorflow:Recording summary at step 13428.
+INFO:tensorflow:global step 13430: loss = 27.0636 (1.497 sec/step)
+INFO:tensorflow:global step 13440: loss = 32.0510 (1.799 sec/step)
+INFO:tensorflow:global step 13450: loss = 22.6869 (1.596 sec/step)
+INFO:tensorflow:Recording summary at step 13459.
+INFO:tensorflow:global step 13460: loss = 22.8536 (1.495 sec/step)
+INFO:tensorflow:global step 13470: loss = 19.7228 (4.501 sec/step)
+INFO:tensorflow:global step 13480: loss = 18.3208 (1.798 sec/step)
+INFO:tensorflow:global step 13490: loss = 19.5220 (1.512 sec/step)
+INFO:tensorflow:Recording summary at step 13493.
+INFO:tensorflow:global step 13500: loss = 20.3751 (1.598 sec/step)
+INFO:tensorflow:global step 13510: loss = 25.8642 (1.687 sec/step)
+INFO:tensorflow:global step 13520: loss = 24.6582 (1.700 sec/step)
+INFO:tensorflow:Recording summary at step 13526.
+INFO:tensorflow:global step 13530: loss = 26.4395 (1.704 sec/step)
+INFO:tensorflow:global step 13540: loss = 26.2349 (1.895 sec/step)
+INFO:tensorflow:global step 13550: loss = 35.9613 (1.799 sec/step)
+INFO:tensorflow:global step 13560: loss = 32.5105 (1.701 sec/step)
+INFO:tensorflow:Recording summary at step 13560.
+INFO:tensorflow:global step 13570: loss = 29.7474 (3.904 sec/step)
+INFO:tensorflow:global step 13580: loss = 29.0429 (1.886 sec/step)
+INFO:tensorflow:global step 13590: loss = 23.6290 (1.794 sec/step)
+INFO:tensorflow:Recording summary at step 13593.
+INFO:tensorflow:global step 13600: loss = 17.7970 (1.599 sec/step)
+INFO:tensorflow:Saving checkpoint to path ./log/WF_addbolck3/model.ckpt
+INFO:tensorflow:global step 13610: loss = 24.6559 (1.699 sec/step)
+INFO:tensorflow:global step 13620: loss = 19.4558 (1.698 sec/step)
+INFO:tensorflow:Recording summary at step 13627.
+INFO:tensorflow:global step 13630: loss = 23.7166 (1.494 sec/step)
+INFO:tensorflow:global step 13640: loss = 26.8200 (1.902 sec/step)
+INFO:tensorflow:global step 13650: loss = 24.5217 (1.600 sec/step)
+INFO:tensorflow:global step 13660: loss = 24.9258 (1.600 sec/step)
+INFO:tensorflow:Recording summary at step 13662.
+INFO:tensorflow:global step 13670: loss = 24.4255 (4.394 sec/step)
+INFO:tensorflow:global step 13680: loss = 22.0761 (1.598 sec/step)
+INFO:tensorflow:global step 13690: loss = 23.7915 (1.603 sec/step)
+INFO:tensorflow:Recording summary at step 13696.
+INFO:tensorflow:global step 13700: loss = 19.2623 (1.601 sec/step)
+INFO:tensorflow:global step 13710: loss = 22.7681 (1.798 sec/step)
+INFO:tensorflow:global step 13720: loss = 21.8450 (1.691 sec/step)
+INFO:tensorflow:Recording summary at step 13729.
+INFO:tensorflow:global step 13730: loss = 36.1791 (1.697 sec/step)
+INFO:tensorflow:global step 13740: loss = 29.3437 (1.999 sec/step)
+INFO:tensorflow:global step 13750: loss = 21.8409 (1.601 sec/step)
+INFO:tensorflow:global step 13760: loss = 28.5592 (1.793 sec/step)
+INFO:tensorflow:Recording summary at step 13762.
+INFO:tensorflow:global step 13770: loss = 21.3619 (2.297 sec/step)
+INFO:tensorflow:global step 13780: loss = 20.1371 (1.698 sec/step)
+INFO:tensorflow:global step 13790: loss = 18.8681 (1.599 sec/step)
+INFO:tensorflow:Recording summary at step 13795.
+INFO:tensorflow:global step 13800: loss = 22.2888 (1.696 sec/step)
+INFO:tensorflow:global step 13810: loss = 24.7562 (1.699 sec/step)
+INFO:tensorflow:global step 13820: loss = 28.9082 (1.792 sec/step)
+INFO:tensorflow:global step 13830: loss = 13.7522 (1.598 sec/step)
+INFO:tensorflow:Recording summary at step 13830.
+INFO:tensorflow:global step 13840: loss = 25.9896 (1.994 sec/step)
+INFO:tensorflow:global step 13850: loss = 25.0544 (1.698 sec/step)
+INFO:tensorflow:global step 13860: loss = 21.5265 (1.793 sec/step)
+INFO:tensorflow:Recording summary at step 13860.
+INFO:tensorflow:global step 13870: loss = 21.1858 (2.099 sec/step)
+INFO:tensorflow:global step 13880: loss = 19.4732 (1.895 sec/step)
+INFO:tensorflow:global step 13890: loss = 25.3178 (1.785 sec/step)
+INFO:tensorflow:Recording summary at step 13893.
+INFO:tensorflow:global step 13900: loss = 21.1207 (1.598 sec/step)
+INFO:tensorflow:global step 13910: loss = 26.9060 (1.701 sec/step)
+INFO:tensorflow:global step 13920: loss = 25.7988 (1.601 sec/step)
+INFO:tensorflow:Recording summary at step 13928.
+INFO:tensorflow:global step 13930: loss = 27.6705 (1.599 sec/step)
+INFO:tensorflow:Saving checkpoint to path ./log/WF_addbolck3/model.ckpt
+INFO:tensorflow:global step 13940: loss = 24.2846 (1.691 sec/step)
+INFO:tensorflow:global step 13950: loss = 25.2459 (1.499 sec/step)
+INFO:tensorflow:Recording summary at step 13959.
+INFO:tensorflow:global step 13960: loss = 18.2158 (1.591 sec/step)
+INFO:tensorflow:global step 13970: loss = 21.9129 (2.099 sec/step)
+INFO:tensorflow:global step 13980: loss = 22.1888 (1.502 sec/step)
+INFO:tensorflow:global step 13990: loss = 23.4420 (1.796 sec/step)
+INFO:tensorflow:Recording summary at step 13992.
+INFO:tensorflow:global step 14000: loss = 25.6419 (1.499 sec/step)
+INFO:tensorflow:global step 14010: loss = 29.2142 (1.788 sec/step)
+INFO:tensorflow:global step 14020: loss = 30.2339 (1.699 sec/step)
+INFO:tensorflow:Recording summary at step 14026.
+INFO:tensorflow:global step 14030: loss = 22.1604 (1.688 sec/step)
+INFO:tensorflow:global step 14040: loss = 28.5558 (1.696 sec/step)
+INFO:tensorflow:global step 14050: loss = 16.4932 (1.602 sec/step)
+INFO:tensorflow:Recording summary at step 14058.
+INFO:tensorflow:global step 14060: loss = 18.6217 (1.497 sec/step)
+INFO:tensorflow:global step 14070: loss = 18.0011 (1.998 sec/step)
+INFO:tensorflow:global step 14080: loss = 17.7481 (1.899 sec/step)
+INFO:tensorflow:global step 14090: loss = 16.6715 (1.699 sec/step)
+INFO:tensorflow:Recording summary at step 14090.
+INFO:tensorflow:global step 14100: loss = 17.2571 (4.593 sec/step)
+INFO:tensorflow:global step 14110: loss = 20.5612 (1.802 sec/step)
+INFO:tensorflow:global step 14120: loss = 26.3742 (1.699 sec/step)
+INFO:tensorflow:Recording summary at step 14127.
+INFO:tensorflow:global step 14130: loss = 16.8187 (1.599 sec/step)
+INFO:tensorflow:global step 14150: loss = 22.1238 (1.601 sec/step)
+INFO:tensorflow:Recording summary at step 14159.
+INFO:tensorflow:global step 14160: loss = 23.1956 (1.698 sec/step)
+INFO:tensorflow:global step 14170: loss = 27.0679 (1.605 sec/step)
+INFO:tensorflow:global step 14180: loss = 22.7708 (1.598 sec/step)
+INFO:tensorflow:global step 14190: loss = 28.4058 (1.898 sec/step)
+INFO:tensorflow:Recording summary at step 14192.
+INFO:tensorflow:global step 14200: loss = 25.8442 (2.101 sec/step)
+INFO:tensorflow:global step 14210: loss = 23.6298 (1.801 sec/step)
+INFO:tensorflow:global step 14220: loss = 27.8072 (1.710 sec/step)
+INFO:tensorflow:Recording summary at step 14224.
+INFO:tensorflow:global step 14230: loss = 20.3285 (1.594 sec/step)
+INFO:tensorflow:global step 14240: loss = 18.9206 (1.898 sec/step)
+INFO:tensorflow:global step 14250: loss = 14.8095 (1.599 sec/step)
+INFO:tensorflow:Recording summary at step 14258.
+INFO:tensorflow:global step 14260: loss = 26.2800 (1.592 sec/step)
+INFO:tensorflow:Saving checkpoint to path ./log/WF_addbolck3/model.ckpt
+INFO:tensorflow:global step 14270: loss = 17.8299 (1.898 sec/step)
+INFO:tensorflow:global step 14280: loss = 16.6256 (1.699 sec/step)
+INFO:tensorflow:Recording summary at step 14289.
+INFO:tensorflow:global step 14290: loss = 33.1885 (1.697 sec/step)
+INFO:tensorflow:global step 14300: loss = 32.2887 (1.699 sec/step)
+INFO:tensorflow:global step 14310: loss = 25.0294 (1.598 sec/step)
+INFO:tensorflow:global step 14320: loss = 25.9070 (1.700 sec/step)
+INFO:tensorflow:Recording summary at step 14321.
+INFO:tensorflow:global step 14330: loss = 18.5032 (4.100 sec/step)
+INFO:tensorflow:global step 14340: loss = 25.3995 (1.697 sec/step)
+INFO:tensorflow:global step 14350: loss = 19.5207 (1.692 sec/step)
+INFO:tensorflow:Recording summary at step 14353.
+INFO:tensorflow:global step 14360: loss = 19.0575 (1.496 sec/step)
+INFO:tensorflow:global step 14370: loss = 22.3173 (1.601 sec/step)
+INFO:tensorflow:global step 14380: loss = 26.5498 (1.498 sec/step)
+INFO:tensorflow:global step 14390: loss = 22.0067 (1.699 sec/step)
+INFO:tensorflow:Recording summary at step 14390.
+INFO:tensorflow:global step 14400: loss = 20.2546 (1.999 sec/step)
+INFO:tensorflow:global step 14410: loss = 17.0267 (1.602 sec/step)
+INFO:tensorflow:global step 14420: loss = 18.7974 (1.598 sec/step)
+INFO:tensorflow:Recording summary at step 14423.
+INFO:tensorflow:global step 14430: loss = 20.6055 (1.697 sec/step)
+INFO:tensorflow:global step 14440: loss = 27.1313 (1.800 sec/step)
+INFO:tensorflow:global step 14450: loss = 22.3191 (1.600 sec/step)
+INFO:tensorflow:Recording summary at step 14458.
+INFO:tensorflow:global step 14460: loss = 32.5695 (1.595 sec/step)
+INFO:tensorflow:global step 14470: loss = 28.7543 (1.999 sec/step)
+INFO:tensorflow:global step 14480: loss = 21.2354 (1.797 sec/step)
+INFO:tensorflow:global step 14490: loss = 25.6514 (1.799 sec/step)
+INFO:tensorflow:Recording summary at step 14493.
+INFO:tensorflow:global step 14500: loss = 26.5774 (1.901 sec/step)
+INFO:tensorflow:global step 14510: loss = 18.4838 (1.801 sec/step)
+INFO:tensorflow:global step 14520: loss = 22.3420 (1.698 sec/step)
+INFO:tensorflow:Recording summary at step 14524.
+INFO:tensorflow:global step 14530: loss = 23.0374 (1.797 sec/step)
+INFO:tensorflow:global step 14540: loss = 28.0914 (1.698 sec/step)
+INFO:tensorflow:global step 14550: loss = 26.6019 (1.799 sec/step)
+INFO:tensorflow:Recording summary at step 14556.
+INFO:tensorflow:global step 14560: loss = 23.1905 (2.197 sec/step)
+INFO:tensorflow:global step 14570: loss = 26.6194 (1.898 sec/step)
+INFO:tensorflow:global step 14580: loss = 21.9985 (1.599 sec/step)
+INFO:tensorflow:Recording summary at step 14585.
+INFO:tensorflow:Saving checkpoint to path ./log/WF_addbolck3/model.ckpt
+INFO:tensorflow:global step 14590: loss = 29.8776 (4.999 sec/step)
+INFO:tensorflow:global step 14600: loss = 20.8632 (1.798 sec/step)
+INFO:tensorflow:global step 14610: loss = 19.4444 (1.799 sec/step)
+INFO:tensorflow:global step 14620: loss = 26.8540 (1.698 sec/step)
+INFO:tensorflow:Recording summary at step 14621.
+INFO:tensorflow:global step 14630: loss = 37.7123 (1.700 sec/step)
+INFO:tensorflow:global step 14640: loss = 32.9210 (1.797 sec/step)
+INFO:tensorflow:global step 14650: loss = 20.7248 (1.699 sec/step)
+INFO:tensorflow:Recording summary at step 14652.
+INFO:tensorflow:global step 14660: loss = 26.6402 (2.091 sec/step)
+INFO:tensorflow:global step 14670: loss = 19.9955 (1.697 sec/step)
+INFO:tensorflow:global step 14680: loss = 16.5968 (1.799 sec/step)
+INFO:tensorflow:Recording summary at step 14683.
+INFO:tensorflow:global step 14690: loss = 20.4598 (1.904 sec/step)
+INFO:tensorflow:global step 14700: loss = 17.2227 (1.601 sec/step)
+INFO:tensorflow:global step 14710: loss = 28.2755 (1.795 sec/step)
+INFO:tensorflow:Recording summary at step 14713.
+INFO:tensorflow:global step 14720: loss = 20.3839 (2.196 sec/step)
+INFO:tensorflow:global step 14730: loss = 22.6141 (1.798 sec/step)
+INFO:tensorflow:global step 14740: loss = 21.3656 (1.797 sec/step)
+INFO:tensorflow:Recording summary at step 14742.
+INFO:tensorflow:global step 14750: loss = 29.4783 (2.105 sec/step)
+INFO:tensorflow:global step 14760: loss = 15.2431 (1.890 sec/step)
+INFO:tensorflow:global step 14770: loss = 20.7821 (1.698 sec/step)
+INFO:tensorflow:Recording summary at step 14779.
+INFO:tensorflow:global step 14780: loss = 18.7920 (2.300 sec/step)
+INFO:tensorflow:global step 14790: loss = 21.8404 (1.798 sec/step)
+INFO:tensorflow:global step 14800: loss = 19.7250 (1.897 sec/step)
+INFO:tensorflow:global step 14810: loss = 18.0096 (1.805 sec/step)
+INFO:tensorflow:Recording summary at step 14810.
+INFO:tensorflow:global step 14820: loss = 28.6596 (1.699 sec/step)
+INFO:tensorflow:global step 14830: loss = 23.7813 (1.602 sec/step)
+INFO:tensorflow:global step 14840: loss = 28.5555 (1.793 sec/step)
+INFO:tensorflow:Recording summary at step 14842.
+INFO:tensorflow:global step 14850: loss = 23.5833 (1.898 sec/step)
+INFO:tensorflow:global step 14860: loss = 18.5435 (1.798 sec/step)
+INFO:tensorflow:global step 14870: loss = 30.2631 (1.698 sec/step)
+INFO:tensorflow:Recording summary at step 14874.
+INFO:tensorflow:global step 14880: loss = 15.4317 (1.997 sec/step)
+INFO:tensorflow:global step 14890: loss = 18.9818 (1.699 sec/step)
+INFO:tensorflow:global step 14900: loss = 23.2806 (1.798 sec/step)
+INFO:tensorflow:Saving checkpoint to path ./log/WF_addbolck3/model.ckpt
+INFO:tensorflow:Recording summary at step 14906.
+INFO:tensorflow:global step 14910: loss = 24.2394 (2.196 sec/step)
+INFO:tensorflow:global step 14920: loss = 29.8761 (1.799 sec/step)
+INFO:tensorflow:global step 14930: loss = 27.3769 (1.709 sec/step)
+INFO:tensorflow:Recording summary at step 14939.
+INFO:tensorflow:global step 14940: loss = 26.7603 (1.800 sec/step)
+INFO:tensorflow:global step 14950: loss = 27.2683 (1.901 sec/step)
+INFO:tensorflow:global step 14960: loss = 21.0947 (1.899 sec/step)
+INFO:tensorflow:global step 14970: loss = 12.9393 (1.899 sec/step)
+INFO:tensorflow:Recording summary at step 14970.
+INFO:tensorflow:global step 14980: loss = 17.8223 (1.898 sec/step)
+INFO:tensorflow:global step 14990: loss = 23.8430 (1.898 sec/step)
+INFO:tensorflow:global step 15000: loss = 19.9206 (1.698 sec/step)
+INFO:tensorflow:Recording summary at step 15002.
+INFO:tensorflow:global step 15010: loss = 21.5139 (1.898 sec/step)
+INFO:tensorflow:global step 15020: loss = 20.7147 (1.798 sec/step)
+INFO:tensorflow:global step 15030: loss = 21.3277 (1.696 sec/step)
+INFO:tensorflow:Recording summary at step 15035.
+INFO:tensorflow:global step 15040: loss = 15.2734 (2.103 sec/step)
+INFO:tensorflow:global step 15050: loss = 25.1081 (1.699 sec/step)
+INFO:tensorflow:global step 15060: loss = 17.8962 (1.798 sec/step)
+INFO:tensorflow:Recording summary at step 15068.
+INFO:tensorflow:global step 15070: loss = 27.8497 (4.198 sec/step)
+INFO:tensorflow:global step 15080: loss = 30.9270 (1.899 sec/step)
+INFO:tensorflow:global step 15090: loss = 28.6426 (1.898 sec/step)
+INFO:tensorflow:global step 15100: loss = 22.1559 (1.799 sec/step)
+INFO:tensorflow:Recording summary at step 15101.
+INFO:tensorflow:global step 15110: loss = 21.9917 (2.099 sec/step)
+INFO:tensorflow:global step 15120: loss = 22.9595 (1.798 sec/step)
+INFO:tensorflow:global step 15130: loss = 19.3629 (1.998 sec/step)
+INFO:tensorflow:Recording summary at step 15132.
+INFO:tensorflow:global step 15140: loss = 17.5763 (2.207 sec/step)
+INFO:tensorflow:global step 15150: loss = 22.7326 (1.897 sec/step)
+INFO:tensorflow:global step 15160: loss = 20.9751 (1.800 sec/step)
+INFO:tensorflow:Recording summary at step 15164.
+INFO:tensorflow:global step 15170: loss = 20.3579 (1.798 sec/step)
+INFO:tensorflow:global step 15180: loss = 24.4939 (1.699 sec/step)
+INFO:tensorflow:global step 15190: loss = 27.7556 (1.799 sec/step)
+INFO:tensorflow:Recording summary at step 15197.
+INFO:tensorflow:global step 15200: loss = 29.2751 (2.194 sec/step)
+INFO:tensorflow:Saving checkpoint to path ./log/WF_addbolck3/model.ckpt
+INFO:tensorflow:global step 15210: loss = 23.2870 (1.870 sec/step)
+INFO:tensorflow:global step 15220: loss = 30.1647 (1.687 sec/step)
+INFO:tensorflow:Recording summary at step 15228.
+INFO:tensorflow:global step 15230: loss = 29.7926 (4.593 sec/step)
+INFO:tensorflow:global step 15240: loss = 24.5307 (1.802 sec/step)
+INFO:tensorflow:global step 15250: loss = 26.3206 (1.897 sec/step)
+INFO:tensorflow:global step 15260: loss = 23.3796 (1.798 sec/step)
+INFO:tensorflow:Recording summary at step 15262.
+INFO:tensorflow:global step 15270: loss = 22.5636 (1.899 sec/step)
+INFO:tensorflow:global step 15280: loss = 27.4080 (1.695 sec/step)
+INFO:tensorflow:global step 15290: loss = 20.4268 (1.500 sec/step)
+INFO:tensorflow:Recording summary at step 15292.
+INFO:tensorflow:global step 15300: loss = 18.0603 (1.699 sec/step)
+INFO:tensorflow:global step 15310: loss = 21.6822 (1.597 sec/step)
+INFO:tensorflow:global step 15320: loss = 22.9651 (1.699 sec/step)
+INFO:tensorflow:Recording summary at step 15323.
+INFO:tensorflow:global step 15330: loss = 20.2096 (1.797 sec/step)
+INFO:tensorflow:global step 15340: loss = 29.9545 (1.697 sec/step)
+INFO:tensorflow:global step 15350: loss = 29.6313 (1.596 sec/step)
+INFO:tensorflow:Recording summary at step 15353.
+INFO:tensorflow:global step 15360: loss = 25.8275 (1.902 sec/step)
+INFO:tensorflow:global step 15370: loss = 24.6729 (1.609 sec/step)
+INFO:tensorflow:global step 15380: loss = 16.8701 (1.698 sec/step)
+INFO:tensorflow:Recording summary at step 15380.
+INFO:tensorflow:global step 15390: loss = 28.9364 (1.697 sec/step)
+INFO:tensorflow:global step 15400: loss = 26.2143 (1.589 sec/step)
+INFO:tensorflow:global step 15410: loss = 26.0741 (1.501 sec/step)
+INFO:tensorflow:Recording summary at step 15411.
+INFO:tensorflow:global step 15420: loss = 18.3820 (1.599 sec/step)
+INFO:tensorflow:global step 15430: loss = 26.7363 (1.404 sec/step)
+INFO:tensorflow:global step 15440: loss = 18.0715 (1.501 sec/step)
+INFO:tensorflow:Recording summary at step 15441.
+INFO:tensorflow:global step 15450: loss = 33.0079 (1.701 sec/step)
+INFO:tensorflow:global step 15460: loss = 26.7200 (1.590 sec/step)
+INFO:tensorflow:global step 15470: loss = 28.6366 (1.597 sec/step)
+INFO:tensorflow:Recording summary at step 15471.
+INFO:tensorflow:global step 15480: loss = 22.0410 (1.610 sec/step)
+INFO:tensorflow:global step 15490: loss = 26.9786 (1.502 sec/step)
+INFO:tensorflow:global step 15500: loss = 24.3474 (1.600 sec/step)
+INFO:tensorflow:Recording summary at step 15502.
+INFO:tensorflow:global step 15510: loss = 31.1009 (1.899 sec/step)
+INFO:tensorflow:global step 15520: loss = 35.9746 (1.803 sec/step)
+INFO:tensorflow:global step 15530: loss = 21.6993 (1.789 sec/step)
+INFO:tensorflow:Saving checkpoint to path ./log/WF_addbolck3/model.ckpt
+INFO:tensorflow:Recording summary at step 15538.
+INFO:tensorflow:global step 15540: loss = 27.2944 (4.404 sec/step)
+INFO:tensorflow:global step 15550: loss = 29.5710 (1.898 sec/step)
+INFO:tensorflow:global step 15560: loss = 22.7667 (1.798 sec/step)
+INFO:tensorflow:Recording summary at step 15568.
+INFO:tensorflow:global step 15570: loss = 23.8809 (1.698 sec/step)
+INFO:tensorflow:global step 15580: loss = 17.1450 (1.797 sec/step)
+INFO:tensorflow:global step 15590: loss = 24.7429 (1.698 sec/step)
+INFO:tensorflow:global step 15600: loss = 14.8856 (1.790 sec/step)
+INFO:tensorflow:Recording summary at step 15602.
+INFO:tensorflow:global step 15610: loss = 16.8498 (1.892 sec/step)
+INFO:tensorflow:global step 15620: loss = 17.4378 (1.699 sec/step)
+INFO:tensorflow:global step 15630: loss = 22.9613 (1.897 sec/step)
+INFO:tensorflow:Recording summary at step 15632.
+INFO:tensorflow:global step 15640: loss = 21.3539 (1.898 sec/step)
+INFO:tensorflow:global step 15650: loss = 19.6051 (1.896 sec/step)
+INFO:tensorflow:global step 15660: loss = 17.1863 (1.796 sec/step)
+INFO:tensorflow:Recording summary at step 15664.
+INFO:tensorflow:global step 15670: loss = 19.5589 (2.097 sec/step)
+INFO:tensorflow:global step 15680: loss = 22.0971 (1.798 sec/step)
+INFO:tensorflow:global step 15690: loss = 20.2751 (1.806 sec/step)
+INFO:tensorflow:Recording summary at step 15693.
+INFO:tensorflow:global step 15700: loss = 19.4809 (1.899 sec/step)
+INFO:tensorflow:global step 15710: loss = 12.9163 (2.099 sec/step)
+INFO:tensorflow:global step 15720: loss = 19.5601 (1.697 sec/step)
+INFO:tensorflow:Recording summary at step 15726.
+INFO:tensorflow:global step 15730: loss = 22.4969 (1.999 sec/step)
+INFO:tensorflow:global step 15740: loss = 22.6675 (1.899 sec/step)
+INFO:tensorflow:global step 15750: loss = 20.7730 (1.694 sec/step)
+INFO:tensorflow:Recording summary at step 15759.
+INFO:tensorflow:global step 15760: loss = 20.7391 (1.998 sec/step)
+INFO:tensorflow:global step 15770: loss = 17.0160 (1.896 sec/step)
+INFO:tensorflow:global step 15780: loss = 20.6319 (1.797 sec/step)
+INFO:tensorflow:global step 15790: loss = 21.1745 (1.705 sec/step)
+INFO:tensorflow:Recording summary at step 15791.
+INFO:tensorflow:global step 15800: loss = 23.2987 (2.099 sec/step)
+INFO:tensorflow:global step 15810: loss = 20.1995 (2.101 sec/step)
+INFO:tensorflow:global step 15820: loss = 20.7591 (1.898 sec/step)
+INFO:tensorflow:Recording summary at step 15823.
+INFO:tensorflow:global step 15830: loss = 29.5432 (2.000 sec/step)
+INFO:tensorflow:global step 15840: loss = 22.2030 (1.990 sec/step)
+INFO:tensorflow:Saving checkpoint to path ./log/WF_addbolck3/model.ckpt
+INFO:tensorflow:global step 15850: loss = 16.9512 (1.799 sec/step)
+INFO:tensorflow:Recording summary at step 15852.
+INFO:tensorflow:global step 15860: loss = 23.7734 (2.097 sec/step)
+INFO:tensorflow:global step 15870: loss = 19.4625 (1.799 sec/step)
+INFO:tensorflow:global step 15880: loss = 16.6173 (1.796 sec/step)
+INFO:tensorflow:Recording summary at step 15884.
+INFO:tensorflow:global step 15890: loss = 19.8251 (2.107 sec/step)
+INFO:tensorflow:global step 15900: loss = 22.4307 (1.898 sec/step)
+INFO:tensorflow:global step 15910: loss = 28.7079 (1.798 sec/step)
+INFO:tensorflow:Recording summary at step 15915.
+INFO:tensorflow:global step 15920: loss = 18.8655 (2.094 sec/step)
+INFO:tensorflow:global step 15930: loss = 18.1340 (1.899 sec/step)
+INFO:tensorflow:global step 15940: loss = 22.8674 (1.799 sec/step)
+INFO:tensorflow:Recording summary at step 15947.
+INFO:tensorflow:global step 15950: loss = 29.1911 (2.294 sec/step)
+INFO:tensorflow:global step 15960: loss = 23.1785 (1.998 sec/step)
+INFO:tensorflow:global step 15970: loss = 21.2902 (1.802 sec/step)
+INFO:tensorflow:global step 15980: loss = 30.7482 (1.699 sec/step)
+INFO:tensorflow:Recording summary at step 15981.
+INFO:tensorflow:global step 15990: loss = 20.1000 (1.897 sec/step)
+INFO:tensorflow:global step 16000: loss = 27.0124 (1.802 sec/step)
+INFO:tensorflow:global step 16010: loss = 18.0632 (1.798 sec/step)
+INFO:tensorflow:Recording summary at step 16012.
+INFO:tensorflow:global step 16020: loss = 21.9821 (1.894 sec/step)
+INFO:tensorflow:global step 16030: loss = 20.0737 (1.900 sec/step)
+INFO:tensorflow:global step 16040: loss = 14.7535 (1.798 sec/step)
+INFO:tensorflow:Recording summary at step 16041.
+INFO:tensorflow:global step 16050: loss = 17.6818 (1.997 sec/step)
+INFO:tensorflow:global step 16060: loss = 21.5484 (1.906 sec/step)
+INFO:tensorflow:global step 16070: loss = 22.0939 (1.799 sec/step)
+INFO:tensorflow:Recording summary at step 16073.
+INFO:tensorflow:global step 16080: loss = 23.4862 (1.992 sec/step)
+INFO:tensorflow:global step 16090: loss = 23.3696 (1.802 sec/step)
+INFO:tensorflow:global step 16100: loss = 25.6173 (1.798 sec/step)
+INFO:tensorflow:Recording summary at step 16106.
+INFO:tensorflow:global step 16110: loss = 28.5915 (2.201 sec/step)
+INFO:tensorflow:global step 16120: loss = 20.9270 (1.905 sec/step)
+INFO:tensorflow:global step 16130: loss = 23.9793 (1.897 sec/step)
+INFO:tensorflow:Recording summary at step 16135.
+INFO:tensorflow:global step 16140: loss = 18.2553 (2.098 sec/step)
+INFO:tensorflow:Saving checkpoint to path ./log/WF_addbolck3/model.ckpt
+INFO:tensorflow:global step 16150: loss = 23.9601 (1.797 sec/step)
+INFO:tensorflow:global step 16160: loss = 16.7498 (1.793 sec/step)
+INFO:tensorflow:Recording summary at step 16166.
+INFO:tensorflow:global step 16170: loss = 23.3828 (2.097 sec/step)
+INFO:tensorflow:global step 16180: loss = 16.7468 (1.898 sec/step)
+INFO:tensorflow:global step 16190: loss = 20.2991 (1.896 sec/step)
+INFO:tensorflow:Recording summary at step 16198.
+INFO:tensorflow:global step 16200: loss = 20.4367 (4.993 sec/step)
+INFO:tensorflow:global step 16210: loss = 18.6715 (1.993 sec/step)
+INFO:tensorflow:global step 16220: loss = 19.0244 (1.899 sec/step)
+INFO:tensorflow:global step 16230: loss = 30.3136 (1.898 sec/step)
+INFO:tensorflow:Recording summary at step 16233.
+INFO:tensorflow:global step 16240: loss = 21.4375 (2.097 sec/step)
+INFO:tensorflow:global step 16250: loss = 18.0756 (1.797 sec/step)
+INFO:tensorflow:global step 16260: loss = 19.5553 (1.799 sec/step)
+INFO:tensorflow:Recording summary at step 16266.
+INFO:tensorflow:global step 16270: loss = 28.0973 (2.097 sec/step)
+INFO:tensorflow:global step 16280: loss = 22.7292 (1.998 sec/step)
+INFO:tensorflow:global step 16290: loss = 17.2973 (1.800 sec/step)
+INFO:tensorflow:Recording summary at step 16298.
+INFO:tensorflow:global step 16300: loss = 18.4751 (4.997 sec/step)
+INFO:tensorflow:global step 16310: loss = 25.0611 (1.800 sec/step)
+INFO:tensorflow:global step 16320: loss = 20.7993 (1.797 sec/step)
+INFO:tensorflow:global step 16330: loss = 23.6089 (1.894 sec/step)
+INFO:tensorflow:Recording summary at step 16330.
+INFO:tensorflow:global step 16340: loss = 30.1557 (1.898 sec/step)
+INFO:tensorflow:global step 16350: loss = 34.6137 (1.701 sec/step)
+INFO:tensorflow:global step 16360: loss = 37.1565 (1.901 sec/step)
+INFO:tensorflow:Recording summary at step 16362.
+INFO:tensorflow:global step 16370: loss = 22.5105 (1.895 sec/step)
+INFO:tensorflow:global step 16380: loss = 32.4276 (1.797 sec/step)
+INFO:tensorflow:global step 16390: loss = 24.5283 (1.700 sec/step)
+INFO:tensorflow:Recording summary at step 16398.
+INFO:tensorflow:global step 16400: loss = 33.9519 (4.400 sec/step)
+INFO:tensorflow:global step 16410: loss = 29.1836 (1.997 sec/step)
+INFO:tensorflow:global step 16420: loss = 27.3759 (1.799 sec/step)
+INFO:tensorflow:global step 16430: loss = 33.2684 (1.799 sec/step)
+INFO:tensorflow:Recording summary at step 16433.
+INFO:tensorflow:global step 16440: loss = 25.8180 (2.000 sec/step)
+INFO:tensorflow:Saving checkpoint to path ./log/WF_addbolck3/model.ckpt
+INFO:tensorflow:global step 16450: loss = 23.4713 (1.896 sec/step)
+INFO:tensorflow:global step 16460: loss = 22.4136 (1.798 sec/step)
+INFO:tensorflow:Recording summary at step 16463.
+INFO:tensorflow:global step 16470: loss = 20.6867 (1.899 sec/step)
+INFO:tensorflow:global step 16480: loss = 21.7995 (1.899 sec/step)
+INFO:tensorflow:global step 16490: loss = 21.1362 (1.897 sec/step)
+INFO:tensorflow:Recording summary at step 16493.
+INFO:tensorflow:global step 16500: loss = 20.8439 (2.100 sec/step)
+INFO:tensorflow:global step 16510: loss = 12.3615 (1.498 sec/step)
+INFO:tensorflow:global step 16520: loss = 18.1659 (1.699 sec/step)
+INFO:tensorflow:Recording summary at step 16523.
+INFO:tensorflow:global step 16530: loss = 19.5380 (1.999 sec/step)
+INFO:tensorflow:global step 16540: loss = 16.2863 (1.803 sec/step)
+INFO:tensorflow:global step 16550: loss = 20.8845 (1.699 sec/step)
+INFO:tensorflow:Recording summary at step 16556.
+INFO:tensorflow:global step 16560: loss = 16.8414 (2.098 sec/step)
+INFO:tensorflow:global step 16570: loss = 30.0532 (1.899 sec/step)
+INFO:tensorflow:global step 16580: loss = 17.2706 (1.899 sec/step)
+INFO:tensorflow:Recording summary at step 16587.
+INFO:tensorflow:global step 16590: loss = 26.3612 (2.297 sec/step)
+INFO:tensorflow:global step 16600: loss = 26.1602 (1.801 sec/step)
+INFO:tensorflow:global step 16610: loss = 21.9342 (1.998 sec/step)
+INFO:tensorflow:Recording summary at step 16619.
+INFO:tensorflow:global step 16620: loss = 20.0143 (2.197 sec/step)
+INFO:tensorflow:global step 16630: loss = 25.1459 (1.802 sec/step)
+INFO:tensorflow:global step 16640: loss = 21.6416 (1.900 sec/step)
+INFO:tensorflow:global step 16650: loss = 22.4833 (1.798 sec/step)
+INFO:tensorflow:Recording summary at step 16652.
+INFO:tensorflow:global step 16660: loss = 20.6685 (1.900 sec/step)
+INFO:tensorflow:global step 16670: loss = 18.4122 (1.800 sec/step)
+INFO:tensorflow:global step 16680: loss = 23.4578 (1.699 sec/step)
+INFO:tensorflow:Recording summary at step 16684.
+INFO:tensorflow:global step 16690: loss = 13.7799 (2.097 sec/step)
+INFO:tensorflow:global step 16700: loss = 19.5798 (1.898 sec/step)
+INFO:tensorflow:global step 16710: loss = 19.3283 (1.898 sec/step)
+INFO:tensorflow:Recording summary at step 16715.
+INFO:tensorflow:global step 16720: loss = 26.2495 (2.098 sec/step)
+INFO:tensorflow:global step 16730: loss = 23.7002 (2.097 sec/step)
+INFO:tensorflow:global step 16740: loss = 18.5833 (1.798 sec/step)
+INFO:tensorflow:Saving checkpoint to path ./log/WF_addbolck3/model.ckpt
+INFO:tensorflow:Recording summary at step 16744.
+INFO:tensorflow:global step 16750: loss = 23.6111 (2.202 sec/step)
+INFO:tensorflow:global step 16760: loss = 16.2697 (1.904 sec/step)
+INFO:tensorflow:global step 16770: loss = 20.0890 (1.801 sec/step)
+INFO:tensorflow:Recording summary at step 16775.
+INFO:tensorflow:global step 16780: loss = 21.5399 (2.098 sec/step)
+INFO:tensorflow:global step 16790: loss = 20.0130 (1.800 sec/step)
+INFO:tensorflow:global step 16800: loss = 29.0993 (1.797 sec/step)
+INFO:tensorflow:Recording summary at step 16808.
+INFO:tensorflow:global step 16810: loss = 22.9839 (4.499 sec/step)
+INFO:tensorflow:global step 16820: loss = 18.9692 (1.905 sec/step)
+INFO:tensorflow:global step 16830: loss = 21.4121 (1.909 sec/step)
+INFO:tensorflow:global step 16840: loss = 18.6970 (1.691 sec/step)
+INFO:tensorflow:Recording summary at step 16840.
+INFO:tensorflow:global step 16850: loss = 24.7550 (1.898 sec/step)
+INFO:tensorflow:global step 16860: loss = 30.6544 (1.893 sec/step)
+INFO:tensorflow:global step 16870: loss = 30.6438 (1.896 sec/step)
+INFO:tensorflow:Recording summary at step 16872.
+INFO:tensorflow:global step 16880: loss = 25.6604 (1.998 sec/step)
+INFO:tensorflow:global step 16890: loss = 21.3406 (1.799 sec/step)
+INFO:tensorflow:global step 16900: loss = 22.2049 (1.799 sec/step)
+INFO:tensorflow:Recording summary at step 16905.
+INFO:tensorflow:global step 16910: loss = 21.5512 (2.197 sec/step)
+INFO:tensorflow:global step 16920: loss = 15.2676 (1.897 sec/step)
+INFO:tensorflow:global step 16930: loss = 15.3765 (1.898 sec/step)
+INFO:tensorflow:Recording summary at step 16936.
+INFO:tensorflow:global step 16940: loss = 19.0676 (2.198 sec/step)
+INFO:tensorflow:global step 16950: loss = 19.5976 (1.899 sec/step)
+INFO:tensorflow:global step 16960: loss = 17.9334 (1.800 sec/step)
+INFO:tensorflow:Recording summary at step 16969.
+INFO:tensorflow:global step 16970: loss = 25.1070 (2.498 sec/step)
+INFO:tensorflow:global step 16980: loss = 21.8653 (1.899 sec/step)
+INFO:tensorflow:global step 16990: loss = 33.1250 (1.798 sec/step)
+INFO:tensorflow:global step 17000: loss = 25.0065 (1.798 sec/step)
+INFO:tensorflow:Recording summary at step 17002.
+INFO:tensorflow:global step 17010: loss = 21.1291 (1.799 sec/step)
+INFO:tensorflow:global step 17020: loss = 24.7983 (1.702 sec/step)
+INFO:tensorflow:global step 17030: loss = 18.0331 (1.999 sec/step)
+INFO:tensorflow:Recording summary at step 17036.
+INFO:tensorflow:Saving checkpoint to path ./log/WF_addbolck3/model.ckpt
+INFO:tensorflow:global step 17040: loss = 20.7201 (2.197 sec/step)
+INFO:tensorflow:global step 17050: loss = 15.9170 (1.896 sec/step)
+INFO:tensorflow:global step 17060: loss = 28.9472 (1.801 sec/step)
+INFO:tensorflow:Recording summary at step 17066.
+INFO:tensorflow:global step 17070: loss = 30.0914 (2.200 sec/step)
+INFO:tensorflow:global step 17080: loss = 26.6912 (1.998 sec/step)
+INFO:tensorflow:global step 17090: loss = 19.2081 (1.897 sec/step)
+INFO:tensorflow:Recording summary at step 17098.
+INFO:tensorflow:global step 17100: loss = 22.1870 (4.299 sec/step)
+INFO:tensorflow:global step 17110: loss = 19.2711 (1.898 sec/step)
+INFO:tensorflow:global step 17120: loss = 27.8028 (1.898 sec/step)
+INFO:tensorflow:Recording summary at step 17129.
+INFO:tensorflow:global step 17130: loss = 18.1867 (2.397 sec/step)
+INFO:tensorflow:global step 17140: loss = 25.4681 (1.800 sec/step)
+INFO:tensorflow:global step 17150: loss = 30.5024 (1.596 sec/step)
+INFO:tensorflow:global step 17160: loss = 17.8680 (1.797 sec/step)
+INFO:tensorflow:Recording summary at step 17161.
+INFO:tensorflow:global step 17170: loss = 18.9934 (1.897 sec/step)
+INFO:tensorflow:global step 17180: loss = 19.2870 (1.898 sec/step)
+INFO:tensorflow:global step 17190: loss = 21.3801 (1.697 sec/step)
+INFO:tensorflow:Recording summary at step 17195.
+INFO:tensorflow:global step 17200: loss = 22.7727 (1.899 sec/step)
+INFO:tensorflow:global step 17210: loss = 15.9079 (1.798 sec/step)
+INFO:tensorflow:global step 17220: loss = 29.5306 (1.698 sec/step)
+INFO:tensorflow:Recording summary at step 17229.
+INFO:tensorflow:global step 17230: loss = 23.6989 (2.298 sec/step)
+INFO:tensorflow:global step 17240: loss = 26.7037 (1.898 sec/step)
+INFO:tensorflow:global step 17250: loss = 31.6424 (1.803 sec/step)
+INFO:tensorflow:global step 17260: loss = 33.8309 (1.800 sec/step)
+INFO:tensorflow:Recording summary at step 17262.
+INFO:tensorflow:global step 17270: loss = 23.8671 (1.798 sec/step)
+INFO:tensorflow:global step 17280: loss = 22.8145 (1.798 sec/step)
+INFO:tensorflow:global step 17290: loss = 30.1806 (1.798 sec/step)
+INFO:tensorflow:Recording summary at step 17297.
+INFO:tensorflow:global step 17300: loss = 28.6766 (2.303 sec/step)
+INFO:tensorflow:global step 17310: loss = 31.7384 (1.798 sec/step)
+INFO:tensorflow:global step 17320: loss = 21.6057 (1.898 sec/step)
+INFO:tensorflow:global step 17330: loss = 27.8642 (1.798 sec/step)
+INFO:tensorflow:Recording summary at step 17332.
+INFO:tensorflow:global step 17340: loss = 20.6062 (1.899 sec/step)
+INFO:tensorflow:Saving checkpoint to path ./log/WF_addbolck3/model.ckpt
+INFO:tensorflow:global step 17350: loss = 25.2214 (1.896 sec/step)
+INFO:tensorflow:global step 17360: loss = 14.6914 (1.798 sec/step)
+INFO:tensorflow:Recording summary at step 17362.
+INFO:tensorflow:global step 17370: loss = 24.6951 (1.897 sec/step)
+INFO:tensorflow:global step 17380: loss = 19.4632 (1.996 sec/step)
+INFO:tensorflow:global step 17390: loss = 33.4536 (1.898 sec/step)
+INFO:tensorflow:Recording summary at step 17393.
+INFO:tensorflow:global step 17400: loss = 23.1260 (2.198 sec/step)
+INFO:tensorflow:global step 17410: loss = 22.2376 (1.801 sec/step)
+INFO:tensorflow:global step 17420: loss = 27.9207 (1.798 sec/step)
+INFO:tensorflow:Recording summary at step 17422.
+INFO:tensorflow:global step 17430: loss = 19.8991 (1.999 sec/step)
+INFO:tensorflow:global step 17440: loss = 16.5590 (1.897 sec/step)
+INFO:tensorflow:global step 17450: loss = 20.9450 (1.799 sec/step)
+INFO:tensorflow:Recording summary at step 17455.
+INFO:tensorflow:global step 17460: loss = 20.0209 (2.199 sec/step)
+INFO:tensorflow:global step 17470: loss = 20.9535 (1.898 sec/step)
+INFO:tensorflow:global step 17480: loss = 20.2309 (1.799 sec/step)
+INFO:tensorflow:Recording summary at step 17485.
+INFO:tensorflow:global step 17490: loss = 20.9411 (2.111 sec/step)
+INFO:tensorflow:global step 17500: loss = 22.1255 (1.796 sec/step)
+INFO:tensorflow:global step 17510: loss = 28.8344 (1.709 sec/step)
+INFO:tensorflow:Recording summary at step 17518.
+INFO:tensorflow:global step 17520: loss = 23.8586 (4.398 sec/step)
+INFO:tensorflow:global step 17530: loss = 21.0049 (1.797 sec/step)
+INFO:tensorflow:global step 17540: loss = 21.8526 (1.796 sec/step)
+INFO:tensorflow:global step 17550: loss = 20.8072 (1.898 sec/step)
+INFO:tensorflow:Recording summary at step 17551.
+INFO:tensorflow:global step 17560: loss = 19.2116 (1.799 sec/step)
+INFO:tensorflow:global step 17570: loss = 14.3795 (1.899 sec/step)
+INFO:tensorflow:global step 17580: loss = 23.0947 (1.798 sec/step)
+INFO:tensorflow:Recording summary at step 17585.
+INFO:tensorflow:global step 17590: loss = 21.8833 (1.995 sec/step)
+INFO:tensorflow:global step 17600: loss = 21.5168 (1.703 sec/step)
+INFO:tensorflow:global step 17610: loss = 25.0655 (1.904 sec/step)
+INFO:tensorflow:global step 17620: loss = 33.5452 (1.802 sec/step)
+INFO:tensorflow:Recording summary at step 17620.
+INFO:tensorflow:global step 17630: loss = 22.9453 (1.997 sec/step)
+INFO:tensorflow:global step 17640: loss = 21.6746 (1.705 sec/step)
+INFO:tensorflow:Saving checkpoint to path ./log/WF_addbolck3/model.ckpt
+INFO:tensorflow:global step 17650: loss = 17.2085 (1.897 sec/step)
+INFO:tensorflow:Recording summary at step 17650.
+INFO:tensorflow:global step 17660: loss = 14.7271 (2.101 sec/step)
+INFO:tensorflow:global step 17670: loss = 20.8704 (1.799 sec/step)
+INFO:tensorflow:global step 17680: loss = 26.8149 (1.797 sec/step)
+INFO:tensorflow:Recording summary at step 17681.
+INFO:tensorflow:global step 17690: loss = 15.5594 (1.999 sec/step)
+INFO:tensorflow:global step 17700: loss = 16.4683 (1.698 sec/step)
+INFO:tensorflow:global step 17710: loss = 20.3171 (1.796 sec/step)
+INFO:tensorflow:Recording summary at step 17716.
+INFO:tensorflow:global step 17720: loss = 16.2841 (2.197 sec/step)
+INFO:tensorflow:global step 17730: loss = 20.9292 (1.900 sec/step)
+INFO:tensorflow:global step 17740: loss = 21.4866 (1.797 sec/step)
+INFO:tensorflow:Recording summary at step 17748.
+INFO:tensorflow:global step 17750: loss = 27.3941 (4.299 sec/step)
+INFO:tensorflow:global step 17760: loss = 27.6550 (1.997 sec/step)
+INFO:tensorflow:global step 17770: loss = 29.1318 (1.894 sec/step)
+INFO:tensorflow:Recording summary at step 17778.
+INFO:tensorflow:global step 17780: loss = 24.2779 (4.898 sec/step)
+INFO:tensorflow:global step 17790: loss = 23.7300 (1.998 sec/step)
+INFO:tensorflow:global step 17800: loss = 17.0476 (1.898 sec/step)
+INFO:tensorflow:global step 17810: loss = 19.5009 (1.698 sec/step)
+INFO:tensorflow:Recording summary at step 17812.
+INFO:tensorflow:global step 17820: loss = 15.0184 (2.099 sec/step)
+INFO:tensorflow:global step 17830: loss = 21.9068 (1.999 sec/step)
+INFO:tensorflow:global step 17840: loss = 21.4960 (1.801 sec/step)
+INFO:tensorflow:Recording summary at step 17847.
+INFO:tensorflow:global step 17850: loss = 18.8117 (2.397 sec/step)
+INFO:tensorflow:global step 17860: loss = 22.9254 (1.997 sec/step)
+INFO:tensorflow:global step 17870: loss = 30.9911 (1.898 sec/step)
+INFO:tensorflow:global step 17880: loss = 27.7447 (1.903 sec/step)
+INFO:tensorflow:Recording summary at step 17883.
+INFO:tensorflow:global step 17890: loss = 25.5862 (2.097 sec/step)
+INFO:tensorflow:global step 17900: loss = 22.5615 (1.998 sec/step)
+INFO:tensorflow:global step 17910: loss = 18.8907 (1.795 sec/step)
+INFO:tensorflow:Recording summary at step 17919.
+INFO:tensorflow:global step 17920: loss = 20.8462 (2.600 sec/step)
