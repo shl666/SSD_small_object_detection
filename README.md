@@ -9,7 +9,13 @@ Tensorflow <br>
 download (original SSD300 network check point)[https://drive.google.com/a/eng.ucsd.edu/file/d/1znGTqsAa0M9gN1EDCqP9Pw667kjAsgwj/view?usp=sharing] <br>
 download (SSD300 added block3 check point)[https://drive.google.com/a/eng.ucsd.edu/file/d/12NkA9rBi_4_x32Vbcbftc1SUxXPcO4Ut/view?usp=sharing]<br>
 ## Introduction:
-This is a SSD300 based small object detection model. We add the **3rd block** of the orignal SSD model and apply the method called **Cropping Prediction**.
+This is a SSD300 based small object detection model. We add the **3rd block** of the orignal SSD model and apply the method called **Cropping Prediction**.<br>
+<br>
+The architecture of modified SSD300 model:<br>
+![](pictures/VGGSSD6Layer.png)
+<br>
+The flow chart of **Cropping Prediction**.<br>
+![](pictures/datapreprocess.png)
 
 ## SSD demo
 
